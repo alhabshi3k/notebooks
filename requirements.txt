@@ -19,7 +19,7 @@ jupyterlite-xeus-python
 jupyterlite-xeus-lua
 jupyterlite-xeus-wren
 jupyterlite-xeus-sqlite
-JupyterLite Sphinx
+JupyterLite-sphinx
 plotly
 theme-darcula
 repo2jupyterlite
