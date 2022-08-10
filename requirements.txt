@@ -8,6 +8,9 @@ jupyterlab
 ipydrawio
 ipydrawio-widgets
 ipydrawio-export
+postgres_kernel
+sqlp-kernel
+mlflow-kernel
 # ----------------------
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
@@ -21,14 +24,16 @@ jupyterlab-dash
 jupyterlab-itables
 jupyterlab_iframe
 jupyterlab-unfold
+jupyterlab-blockly
+
 # ----------------------
 # xeus-sql
-xeus-python
+# xeus-python  work working in browser, possible conflect on kernel
 jupyterlite
-jupyterlite-xeus-python
+# jupyterlite-xeus-python # work working in browser, possible conflect on kernel
 jupyterlite-p5-kernel
 jupyterlite_robotkernel
-# jupyterlite-xeus-lfortran-kernel
+jupyterlite_xeus_lfortran
 jupyterlite-xeus-lua
 jupyterlite-xeus-wren
 jupyterlite-xeus-sqlite
