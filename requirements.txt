@@ -22,10 +22,10 @@ jupyterlab-itables
 jupyterlab_iframe
 jupyterlab-unfold
 # ----------------------
-xeus-sql
-# xeus-python
+# xeus-sql
+xeus-python
 jupyterlite
-# jupyterlite-xeus-python
+jupyterlite-xeus-python
 jupyterlite-p5-kernel
 jupyterlite_robotkernel
 jupyterlite-xeus-lfortran-kernel
