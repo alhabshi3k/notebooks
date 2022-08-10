@@ -33,7 +33,7 @@ jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
 jupyterlite-p5-kernel
 jupyterlite_robotkernel
-jupyterlite_xeus_lfortran
+# jupyterlite_xeus_lfortran # Not matured 
 jupyterlite-xeus-lua
 jupyterlite-xeus-wren
 jupyterlite-xeus-sqlite
