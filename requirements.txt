@@ -8,18 +8,33 @@ jupyterlab
 ipydrawio
 ipydrawio-widgets
 ipydrawio-export
+# ----------------------
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
 jupyterlab-tour
 jupyterlab_miami_nights
+# jupyterlab-git # to test later
+jupyterlab-github
+jupyterlab-widgets
+jupyterlab-citation-manager
+jupyterlab-floatview
+jupyterlab-dash
+jupyterlab-itables
+jupyterlab_iframe
+jupyterlab-unfold
+# ----------------------
+xeus-sql
+# xeus-python
 jupyterlite
+# jupyterlite-xeus-python
 jupyterlite-p5-kernel
 jupyterlite_robotkernel
-# jupyterlite-xeus-python
+jupyterlite-xeus-lfortran-kernel
 jupyterlite-xeus-lua
 jupyterlite-xeus-wren
 jupyterlite-xeus-sqlite
 JupyterLite-sphinx
+# ---------------------
 plotly
 theme-darcula
 repo2jupyterlite
@@ -29,3 +44,4 @@ jupyter-videochat
 jupyterview 
 ipyvizzu
 jupyterlab-webrtc-docprovider
+graphscope-jupyter
