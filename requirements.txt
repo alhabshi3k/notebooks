@@ -28,7 +28,7 @@ jupyterlite
 jupyterlite-xeus-python
 jupyterlite-p5-kernel
 jupyterlite_robotkernel
-jupyterlite-xeus-lfortran-kernel
+# jupyterlite-xeus-lfortran-kernel
 jupyterlite-xeus-lua
 jupyterlite-xeus-wren
 jupyterlite-xeus-sqlite
