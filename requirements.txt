@@ -17,7 +17,6 @@ jupyterlab_miami_nights
 jupyterlab-github
 jupyterlab-widgets
 jupyterlab-citation-manager
-jupyterlab-floatview
 jupyterlab-dash
 jupyterlab-itables
 jupyterlab_iframe
@@ -42,6 +41,7 @@ replite
 skillsnetwork-authoring-extension
 jupyter-videochat
 jupyterview 
+floatview
 ipyvizzu
 jupyterlab-webrtc-docprovider
 graphscope-jupyter
