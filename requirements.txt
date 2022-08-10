@@ -8,7 +8,7 @@ jupyterlab
 ipydrawio
 ipydrawio-widgets
 ipydrawio-export
-postgres_kernel
+# postgres_kernel
 sqlp-kernel
 mlflow-kernel
 # ----------------------
