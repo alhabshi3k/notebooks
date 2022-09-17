@@ -43,7 +43,7 @@ jupyterlab-tour
 
 # jupyterlab-git # to test later # if you want to use git from JupyterLab, you should look at the jupyterlab-git extension.
 jupyterlab-github
-jlab-enhanced-launcher # A enhanced launcher for JupyterLab
+# jlab-enhanced-launcher # A enhanced launcher for JupyterLab
 
 jupyterlab-citation-manager
 jupyterlab-dash
@@ -54,23 +54,23 @@ jupyterlab-itables
                                # myNotes: more like templates
 # jupyterlab-unfold
 jupyterlab-fonts
-# jupyterlab-plugin-graph # JupyterLab extension to show an interactive dependency graph of the installed plugins
-# jupyterlab-jitsi # A jupyterlab extension to add a Jitsi chat
+jupyterlab-plugin-graph # JupyterLab extension to show an interactive dependency graph of the installed plugins
+jupyterlab-jitsi # A jupyterlab extension to add a Jitsi chat
 jupyterlab-blockly
-# jupyter-simlin # visual editor for system dynamics models. Simlin is a tool for simulation modeling, 
+jupyter-simlin # visual editor for system dynamics models. Simlin is a tool for simulation modeling, 
                # leveling up your ability to learn. With Simlin you can iterate on strategy and policy 
                # faster than you can in the real world, with fewer costs and the freedom to fail.
-# jupyterlab-image-editor
-# jupyterlab_mosaic # Mosaic schematic editor lab extension
-# jupyterlab-wav #  simple wave file viewer using WaveSurfer.js for JupyterLab.
-# jupyterlab-requirements # JupyterLab Extension for dependency management and optimization
+jupyterlab-image-editor
+jupyterlab_mosaic # Mosaic schematic editor lab extension
+jupyterlab-wav #  simple wave file viewer using WaveSurfer.js for JupyterLab.
+jupyterlab-requirements # JupyterLab Extension for dependency management and optimization
 jupyterlab-execute-time # Display cell timings in Jupyter Lab
 jupyterlab-filesystem-access
 # The main motivation for this extension (jupyterlab-filesystem-access) is to give access to local files in JupyterLite. 
 # This extension is compatible with Chromium-based browsers only (for now:August 2,2022)
 # jupyter-innotater # An Inline Data Annotator for Jupyter #  useful for DL data annotation
 # ipyannotations # Create rich adata annotations in jupyter notebooks.
-# tiledb-plot-widget
+tiledb-plot-widget
 # ----------------------
 # xeus-sql
 # xeus-python  work working in browser, possible conflect on kernel
@@ -124,7 +124,7 @@ exodide
 micropip
 
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
-# ipyscript # A Custom Jupyter Widget Library for PyScript.
+ipyscript # A Custom Jupyter Widget Library for PyScript.
 # flexx # is a pure Python toolkit for creating graphical user interfaces (GUI’s), 
       # that uses web technology for its rendering. Apps are written purely in Python; 
       # The PScript transpiler generates the necessary JavaScript on the fly.
