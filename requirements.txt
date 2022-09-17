@@ -90,8 +90,8 @@ JupyterLite-sphinx
 plotly
 # imjoy-jupyterlab-extension # 
 # dsvisualizer # A simple data structure visualizer for Jupyter Notebooks. https://github.com/romero-jose/dsvisualizer
-# ipyx # A Jupyter widget library for reactive variables
-# ipybertin # A Jupyter - Bertin.js bridge, which Bertin.js is A package to draw maps in javascript based on D3.js 
+ipyx # A Jupyter widget library for reactive variables
+ipybertin # A Jupyter - Bertin.js bridge, which Bertin.js is A package to draw maps in javascript based on D3.js 
 ## vispy
 statworx-theme # A color theme for matplotlib using the offical statworx design
 pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
@@ -107,7 +107,7 @@ jupyter-videochat
 jupyterview
 jupyter-compare-view
 floatview
-# ipyvizzu
+ipyvizzu
 panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
 # https://github.com/MarcSkovMadsen/panel-sketch
 graphscope-jupyter
@@ -115,15 +115,13 @@ graphscope-jupyter
 # pyotritonclient # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
 
 # -- other Tools related to :: pyodide -----
-#pyodide 
+# pyodide # is a Python distribution for the browser and Node.js based on WebAssembly.
 matplotlib-pyodide
 pyodide-html
 pyodide-http
 pyodide-build
 exodide
 micropip
-# Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
-
 
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
 # ipyscript # A Custom Jupyter Widget Library for PyScript.
@@ -146,10 +144,10 @@ micropip
 # ==== Game Engines and 3D =====
 # pygbag # python wasm for everyone ( packager + test server ). Runs python code directly in modern web browsers, including mobile versions. 
 # pyp5js # Python to P5.js Transcriptor. https://pypi.org/project/pyp5js/ . pyp5js works like server and template generator
-# P5 # P5 is a Python library that provides high level drawing functionality to help you quickly create simulations and interactive art using Python. 
+P5 # P5 is a Python library that provides high level drawing functionality to help you quickly create simulations and interactive art using Python. 
    # My Notes: P5 looks better than pyp5js in term of usability in Jupyter notebook # it have depedency on vispy
-# ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
-# Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
+ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
+Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
 # wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter
 # wasmpy # Interactions between WebAssembly and Python
 # pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
