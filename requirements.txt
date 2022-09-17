@@ -13,6 +13,8 @@ sqlp-kernel
 mlflow-kernel
 # ----- Reinstall some other packages ----
 pandas
+metakernel
+calysto
 # ----------------------
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
@@ -25,9 +27,13 @@ jupyterlab-citation-manager
 jupyterlab-dash
 jupyterlab-itables
 jupyterlab_iframe
+jupyterlab-lsp
+jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
+jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
 # jupyterlab-unfold
 jupyterlab-fonts
 jupyterlab-blockly
+jupyterlab-requirements # JupyterLab Extension for dependency management and optimization
 jupyterlab-filesystem-access
 # The main motivation for this extension (jupyterlab-filesystem-access) is to give access to local files in JupyterLite. 
 # This extension is compatible with Chromium-based browsers only (for now:August 2,2022)
@@ -49,7 +55,10 @@ JupyterLite-sphinx
 # ---------------------
 aitk.keras
 plotly
+# vispy
+jupyterlab-themes
 theme-darcula   # Not bad, also I need a gray Theme
+jupyterlab-theme-hale
 repo2jupyterlite
 replite
 skillsnetwork-authoring-extension
@@ -59,11 +68,11 @@ jupyterview
 jupyter-compare-view
 floatview
 ipyvizzu
-
+panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
+# https://github.com/MarcSkovMadsen/panel-sketch
 graphscope-jupyter
 
-pyotritonclient 
-# A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
+pyotritonclient # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
 
 # -- other Tools related to :: pyodide -----
 #pyodide 
@@ -74,8 +83,33 @@ pyodide-build
 exodide
 micropip
 # Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
-click-default-group-wheel
-panel-sketch
-ipyscript
-flexx
-Castella
+
+
+# === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
+ipyscript # A Custom Jupyter Widget Library for PyScript.
+flexx # is a pure Python toolkit for creating graphical user interfaces (GUI’s), 
+      # that uses web technology for its rendering. Apps are written purely in Python; 
+      # The PScript transpiler generates the necessary JavaScript on the fly.
+      # https://flexx.readthedocs.io/en/stable/
+Castella #  is a pure Python cross-platform UI framework made for us Pythonista.
+         # https://i2y.github.io/castella/
+htag # GUI toolkit for building GUI toolkits (and create beautiful applications for mobile, web, and desktop from a single python3 codebase),
+     # which render nativly in anything which can render html/js/css.
+     # Interesting History and experinces from other tools like :
+     # Guy (https://github.com/manatlan/guy), Python-eel (), remi (https://github.com/rawpython/remi) and gtag (https://github.com/manatlan/gtag)
+     # as Alternative for Runner 
+     # For a desktop app : You can use the PyWebView runner, which will run the UI in a pywebview container (or "ChromeApp runner", in a local chrome app mode). 
+     # For a web app : You can use the WebHTTP runner, which will run the UI in a web server, and serve the UI on client side, in a browser. 
+     # For a android app : You can use the AndroidApp runner, which will run the UI in a kiwi webview thru tornado webserver, and can be embedded in an apk (recipes)
+     # For a pyscript app : you can use the PyScript runner, which will run completly in client side
+
+# ==== Game Engines and 3D =====
+pygbag # python wasm for everyone ( packager + test server ). Runs python code directly in modern web browsers, including mobile versions. 
+# pyp5js # Python to P5.js Transcriptor. https://pypi.org/project/pyp5js/ . pyp5js works like server and template generator
+P5 # P5 is a Python library that provides high level drawing functionality to help you quickly create simulations and interactive art using Python. 
+   # My Notes: P5 looks better than pyp5js in term of usability in Jupyter notebook # it have depedency on vispy
+ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
+Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
+wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter
+wasmpy # Interactions between WebAssembly and Python
+pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
