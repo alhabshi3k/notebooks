@@ -11,6 +11,8 @@ ipydrawio-export
 # postgres_kernel
 sqlp-kernel
 mlflow-kernel
+# ----- Reinstall some other packages ----
+pandas
 # ----------------------
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
@@ -47,7 +49,7 @@ JupyterLite-sphinx
 # ---------------------
 aitk.keras
 plotly
-theme-darcula
+theme-darcula   # Not bad, also I need a gray Theme
 repo2jupyterlite
 replite
 skillsnetwork-authoring-extension
@@ -65,9 +67,9 @@ pyotritonclient
 
 # -- other Tools related to :: pyodide -----
 #pyodide 
-#matplotlib-pyodide
-#pyodide-html
-#pyodide-http
+matplotlib-pyodide
+pyodide-html
+pyodide-http
 pyodide-build
 exodide
 micropip
