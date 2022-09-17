@@ -4,9 +4,9 @@ ipywidgets>7.7
 jupyterlab-widgets
 jupyterlab_iframe>0.4
 jupyterlab-lsp>3.10
-# jupyterlab-autoplot>0.1  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
-# jupyterlab-skip-traceback>4 # makes tracking errors focus on the target and not the details.
-# jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
+jupyterlab-autoplot>0.1  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
+jupyterlab-skip-traceback>4 # makes tracking errors focus on the target and not the details.
+jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
 
 # jupyterlab_comments>0.1 # myNote: on the right bar, icon for comments
 # jupyterlab-snippets>=0.4
@@ -25,17 +25,17 @@ ipydrawio
 ipydrawio-widgets
 ipydrawio-export
 
-#ipyradiant # Jupyter Widgets for working with RDF graphs
-#ipyflex # A WYSIWYG layout editor for Jupyter widgets https://github.com/trungleduc/ipyflex
-#IPySlides # Live rich content slides in jupyter notebook
+ipyradiant # Jupyter Widgets for working with RDF graphs
+ipyflex # A WYSIWYG layout editor for Jupyter widgets https://github.com/trungleduc/ipyflex
+IPySlides # Live rich content slides in jupyter notebook
 
 # postgres_kernel
 sqlp-kernel
 mlflow-kernel
 # ----- Reinstall some other packages ----
 
-#metakernel
-#calysto
+metakernel
+calysto
 # ----------------------
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
@@ -86,13 +86,14 @@ JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 
 # ---------------------
-# aitk.keras
+vispy
+aitk.keras
 plotly
 imjoy-jupyterlab-extension # 
 dsvisualizer # A simple data structure visualizer for Jupyter Notebooks. https://github.com/romero-jose/dsvisualizer
 ipyx # A Jupyter widget library for reactive variables
 ipybertin # A Jupyter - Bertin.js bridge, which Bertin.js is A package to draw maps in javascript based on D3.js 
-## vispy
+
 statworx-theme # A color theme for matplotlib using the offical statworx design
 pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
 jltheme # Change Matplotlib rcParams to match the current JupyterLab theme.
