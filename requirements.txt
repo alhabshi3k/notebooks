@@ -1,10 +1,26 @@
+pandas
+jupyterlab
+ipywidgets>7.7
+jupyterlab-widgets
+jupyterlab_iframe>0.4
+jupyterlab-lsp>3.10
+jupyterlab-autoplot>0.1  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
+jupyterlab-skip-traceback>4 # makes tracking errors focus on the target and not the details.
+jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
+
+jupyterlab_comments>0.1 # myNote: on the right bar, icon for comments
+jupyterlab-snippets>=0.4
+jupyterlab-code-snippets>2
+jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
+# jupyterlab_templates
+jupyterlab_multicontents_templates>=0.4 # Inspired by 'Jupyterlab-templates' but added extra functions.
+
 bqplot
 ipycanvas
 ipyevents
 ipyleaflet
 ipympl
-ipywidgets
-jupyterlab
+
 ipydrawio
 ipydrawio-widgets
 ipydrawio-export
@@ -15,7 +31,7 @@ IPySlides # Live rich content slides in jupyter notebook
 sqlp-kernel
 mlflow-kernel
 # ----- Reinstall some other packages ----
-pandas
+
 metakernel
 calysto
 # ----------------------
@@ -26,21 +42,11 @@ jupyterlab-tour
 # jupyterlab-git # to test later # if you want to use git from JupyterLab, you should look at the jupyterlab-git extension.
 jupyterlab-github
 jlab-enhanced-launcher # A enhanced launcher for JupyterLab
-jupyterlab-widgets
+
 jupyterlab-citation-manager
 jupyterlab-dash
 jupyterlab-itables
-jupyterlab_iframe
-jupyterlab-lsp
-jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
-jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
-jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
-jupyterlab_comments # myNote: on the right bar, icon for comments
-jupyterlab-snippets
-jupyterlab-code-snippets
-jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
-# jupyterlab_templates
-jupyterlab_multicontents_templates # Inspired by 'Jupyterlab-templates' but added extra functions.
+
 jupyterlab-bookmarks-extension # A JupyterLab extension to provide Launcher icons for favorites. Allows 'bookmarking' files for quick access from the Launcher. 
                                # myNotes: more like templates
 # jupyterlab-unfold
