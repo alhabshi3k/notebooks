@@ -88,8 +88,8 @@ JupyterLite-sphinx
 # ---------------------
 # aitk.keras
 plotly
-# imjoy-jupyterlab-extension # 
-# dsvisualizer # A simple data structure visualizer for Jupyter Notebooks. https://github.com/romero-jose/dsvisualizer
+imjoy-jupyterlab-extension # 
+dsvisualizer # A simple data structure visualizer for Jupyter Notebooks. https://github.com/romero-jose/dsvisualizer
 ipyx # A Jupyter widget library for reactive variables
 ipybertin # A Jupyter - Bertin.js bridge, which Bertin.js is A package to draw maps in javascript based on D3.js 
 ## vispy
@@ -112,7 +112,7 @@ panel-sketch # To sketch high performing, interactive visualizations running in 
 # https://github.com/MarcSkovMadsen/panel-sketch
 graphscope-jupyter
 
-# pyotritonclient # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
+pyotritonclient # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
 
 # -- other Tools related to :: pyodide -----
 # pyodide # is a Python distribution for the browser and Node.js based on WebAssembly.
@@ -125,13 +125,13 @@ micropip
 
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
 ipyscript # A Custom Jupyter Widget Library for PyScript.
-# flexx # is a pure Python toolkit for creating graphical user interfaces (GUI’s), 
+flexx # is a pure Python toolkit for creating graphical user interfaces (GUI’s), 
       # that uses web technology for its rendering. Apps are written purely in Python; 
       # The PScript transpiler generates the necessary JavaScript on the fly.
       # https://flexx.readthedocs.io/en/stable/
-# Castella #  is a pure Python cross-platform UI framework made for us Pythonista.
+Castella #  is a pure Python cross-platform UI framework made for us Pythonista.
          # https://i2y.github.io/castella/
-# htag # GUI toolkit for building GUI toolkits (and create beautiful applications for mobile, web, and desktop from a single python3 codebase),
+htag # GUI toolkit for building GUI toolkits (and create beautiful applications for mobile, web, and desktop from a single python3 codebase),
      # which render nativly in anything which can render html/js/css.
      # Interesting History and experinces from other tools like :
      # Guy (https://github.com/manatlan/guy), Python-eel (), remi (https://github.com/rawpython/remi) and gtag (https://github.com/manatlan/gtag)
