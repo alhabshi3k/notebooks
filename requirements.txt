@@ -143,7 +143,7 @@ micropip
 
 # ==== Game Engines and 3D =====
 pygbag # python wasm for everyone ( packager + test server ). Runs python code directly in modern web browsers, including mobile versions. 
-pyp5js # Python to P5.js Transcriptor. https://pypi.org/project/pyp5js/ . pyp5js works like server and template generator
+# pyp5js # Python to P5.js Transcriptor. https://pypi.org/project/pyp5js/ . MyNotes: pyp5js works like server and template generator. & not updated to use latest Jinja
 # P5 # P5 is a Python library that provides high level drawing functionality to help you quickly create simulations and interactive art using Python. 
    # My Notes: P5 looks better than pyp5js in term of usability in Jupyter notebook # it have depedency on vispy
 ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
