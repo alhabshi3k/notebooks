@@ -107,7 +107,7 @@ jupyter-videochat
 jupyterview
 jupyter-compare-view
 floatview
-ipyvizzu
+# ipyvizzu
 panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
 # https://github.com/MarcSkovMadsen/panel-sketch
 graphscope-jupyter
