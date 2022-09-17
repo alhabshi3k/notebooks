@@ -23,7 +23,7 @@ jupyterlab-citation-manager
 jupyterlab-dash
 jupyterlab-itables
 jupyterlab_iframe
-jupyterlab-unfold
+# jupyterlab-unfold
 jupyterlab-blockly
 
 # ----------------------
