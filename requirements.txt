@@ -24,7 +24,11 @@ jupyterlab-dash
 jupyterlab-itables
 jupyterlab_iframe
 # jupyterlab-unfold
+jupyterlab-fonts
 jupyterlab-blockly
+jupyterlab-filesystem-access
+# The main motivation for this extension (jupyterlab-filesystem-access) is to give access to local files in JupyterLite. 
+# This extension is compatible with Chromium-based browsers only (for now:August 2,2022)
 
 # ----------------------
 # xeus-sql
@@ -38,15 +42,38 @@ jupyterlite-xeus-lua
 jupyterlite-xeus-wren
 jupyterlite-xeus-sqlite
 JupyterLite-sphinx
+# pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
+
 # ---------------------
+aitk.keras
 plotly
 theme-darcula
 repo2jupyterlite
 replite
 skillsnetwork-authoring-extension
+jupyterlab-webrtc-docprovider
 jupyter-videochat
-jupyterview 
+jupyterview
+jupyter-compare-view
 floatview
 ipyvizzu
-jupyterlab-webrtc-docprovider
+
 graphscope-jupyter
+
+pyotritonclient 
+# A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
+
+# -- other Tools related to :: pyodide -----
+pyodide 
+matplotlib-pyodide
+pyodide-html
+pyodide-http
+pyodide-build
+exodide
+micropip
+# Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
+click-default-group-wheel
+panel-sketch
+ipyscript
+flexx
+Castella
