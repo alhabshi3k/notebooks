@@ -64,10 +64,10 @@ pyotritonclient
 # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
 
 # -- other Tools related to :: pyodide -----
-pyodide 
-matplotlib-pyodide
-pyodide-html
-pyodide-http
+#pyodide 
+#matplotlib-pyodide
+#pyodide-html
+#pyodide-http
 pyodide-build
 exodide
 micropip
