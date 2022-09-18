@@ -26,11 +26,12 @@ jupyterlab-geojson
 jupyterlab-tour
 # jupyterlab-git # to test later # if you want to use git from JupyterLab, you should look at the jupyterlab-git extension.
 jupyterlab-github
-# jlab-enhanced-launcher # A enhanced launcher for JupyterLab # Does NOT work with JupyterLite !!! Do not install
+jupyterlab-unfold
+jlab-enhanced-launcher # A enhanced launcher for JupyterLab # Does NOT work with JupyterLite !!! Do not install
 jupyterlab-citation-manager
 jupyterlab-dash
 jupyterlab-itables
-# jupyterlab-unfold
+
 
 
 # ----------------------
