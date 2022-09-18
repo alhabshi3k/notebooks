@@ -70,9 +70,9 @@ pyotritonclient # A lightweight http client library for communicating with Nvidi
 # -- other Tools related to :: pyodide -----
 # pyodide # is a Python distribution for the browser and Node.js based on WebAssembly.
 matplotlib-pyodide
-# pyodide-html
-# pyodide-http
-# pyodide-build
+pyodide-html
+pyodide-http
+pyodide-build
 exodide
 micropip
 
