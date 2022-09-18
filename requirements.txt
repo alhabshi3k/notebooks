@@ -69,12 +69,12 @@ jupyterlite
 
 # -- other Tools related to :: pyodide -----
 # pyodide # is a Python distribution for the browser and Node.js based on WebAssembly.
-#matplotlib-pyodide
-#pyodide-html
-#pyodide-http
-#pyodide-build
-#exodide
-#micropip
+matplotlib-pyodide
+pyodide-html
+pyodide-http
+pyodide-build
+exodide
+micropip
 
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
 ipyscript # A Custom Jupyter Widget Library for PyScript.
@@ -102,7 +102,7 @@ pygbag # python wasm for everyone ( packager + test server ). Runs python code d
 ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
 Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
 #wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter
-#wasmpy # Interactions between WebAssembly and Python
+wasmpy # Interactions between WebAssembly and Python
 pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
 wasmtime
 wasmer
