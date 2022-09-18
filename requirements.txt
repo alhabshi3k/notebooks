@@ -69,12 +69,12 @@ JupyterLite-sphinx
 
 # -- other Tools related to :: pyodide -----
 # pyodide # is a Python distribution for the browser and Node.js based on WebAssembly.
-matplotlib-pyodide
-pyodide-html
-pyodide-http
-pyodide-build
-exodide
-micropip
+#matplotlib-pyodide
+#pyodide-html
+#pyodide-http
+#pyodide-build
+#exodide
+#micropip
 
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
 ipyscript # A Custom Jupyter Widget Library for PyScript.
