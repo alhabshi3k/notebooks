@@ -72,8 +72,8 @@ pyotritonclient # A lightweight http client library for communicating with Nvidi
 matplotlib-pyodide
 pyodide-html
 pyodide-http
-pyodide-build
-exodide
+# pyodide-build
+# exodide
 micropip
 
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
