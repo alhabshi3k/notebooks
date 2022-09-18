@@ -103,6 +103,6 @@ ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy
 Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
 #wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter
 #wasmpy # Interactions between WebAssembly and Python
-#pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
-#wasmtime
-#wasmer
+pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
+wasmtime
+wasmer
