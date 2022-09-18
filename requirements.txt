@@ -1,57 +1,47 @@
 pandas
 jupyterlab
-ipywidgets>7.7
+ipywidgets
 jupyterlab-widgets
-jupyterlab_iframe>0.4
-jupyterlab-lsp>3.10
-jupyterlab-autoplot>0.1  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
-jupyterlab-skip-traceback>4 # makes tracking errors focus on the target and not the details.
+jupyterlab_iframe
+jupyterlab-lsp
+jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
 jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
-
-jupyterlab_comments>0.1 # myNote: on the right bar, icon for comments
-jupyterlab-snippets>=0.4
-jupyterlab-code-snippets>2
-jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
+# jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
+#jupyterlab_comments # myNote: on the right bar, icon for comments
+#jupyterlab-snippets
+#jupyterlab-code-snippets
+#jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
 ## jupyterlab_templates
-jupyterlab_multicontents_templates>=0.4 # Inspired by 'Jupyterlab-templates' but added extra functions.
-
+#jupyterlab_multicontents_templates # Inspired by 'Jupyterlab-templates' but added extra functions.
+#jupyterlab-bookmarks-extension # A JupyterLab extension to provide Launcher icons for favorites. Allows 'bookmarking' files for quick access from the Launcher. 
+                               # myNotes: more like templates
 bqplot
 ipycanvas
 ipyevents
 ipyleaflet
 ipympl
-
 ipydrawio
 ipydrawio-widgets
 ipydrawio-export
-
 ipyradiant # Jupyter Widgets for working with RDF graphs
 ipyflex # A WYSIWYG layout editor for Jupyter widgets https://github.com/trungleduc/ipyflex
 IPySlides # Live rich content slides in jupyter notebook
-
 # postgres_kernel
 sqlp-kernel
 mlflow-kernel
 # ----- Reinstall some other packages ----
-
 metakernel
 calysto
 # ----------------------
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
 jupyterlab-tour
-
 # jupyterlab-git # to test later # if you want to use git from JupyterLab, you should look at the jupyterlab-git extension.
 jupyterlab-github
 # jlab-enhanced-launcher # A enhanced launcher for JupyterLab
-
 jupyterlab-citation-manager
 jupyterlab-dash
 jupyterlab-itables
-
-
-jupyterlab-bookmarks-extension # A JupyterLab extension to provide Launcher icons for favorites. Allows 'bookmarking' files for quick access from the Launcher. 
-                               # myNotes: more like templates
 # jupyterlab-unfold
 jupyterlab-fonts
 jupyterlab-plugin-graph # JupyterLab extension to show an interactive dependency graph of the installed plugins
@@ -149,6 +139,6 @@ pygbag # python wasm for everyone ( packager + test server ). Runs python code d
    # My Notes: P5 looks better than pyp5js in term of usability in Jupyter notebook # it have depedency on vispy
 ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
 Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
-# wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter
-# wasmpy # Interactions between WebAssembly and Python
+wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter
+wasmpy # Interactions between WebAssembly and Python
 # pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
