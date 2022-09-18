@@ -8,25 +8,26 @@ pandas
 #mpld3
 #markupsafe
 #ipympl
-#ipydrawio
-#ipydrawio-widgets
-#ipydrawio-export
+ipydrawio
+ipydrawio-widgets
+ipydrawio-export
 #ipyradiant # Jupyter Widgets for working with RDF graphs
 #ipyflex # A WYSIWYG layout editor for Jupyter widgets https://github.com/trungleduc/ipyflex
 #IPySlides # Live rich content slides in jupyter notebook
 # postgres_kernel
 # sqlp-kernel
 # mlflow-kernel
-
+# jupyterlab-bpmn # diagram model format
+# jupyterlab-dmn  # diagram model format
 # ----------------------
-# jupyterlab-fasta
-# jupyterlab-geojson
-# jupyterlab-bpmn
-# jupyterlab-tour
+jupyterlab-fasta
+jupyterlab-geojson
+
+jupyterlab-tour
 # jupyterlab-git # to test later # if you want to use git from JupyterLab, you should look at the jupyterlab-git extension.
-# jupyterlab-github
+jupyterlab-github
 # jlab-enhanced-launcher # A enhanced launcher for JupyterLab # Does NOT work with JupyterLite !!! Do not install
-# jupyterlab-citation-manager
+jupyterlab-citation-manager
 # jupyterlab-dash
 # jupyterlab-itables
 # jupyterlab-unfold
@@ -38,11 +39,11 @@ pandas
 jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
 jupyterlite-p5-kernel
-# jupyterlite_robotkernel  # possible this is responsible for degrading 
+# jupyterlite_robotkernel  # !!! Possible this is responsible for degrading JupyterLab and JupterLite private cell functions icons 
 # jupyterlite_xeus_lfortran # Not matured 
-#jupyterlite-xeus-lua
-#jupyterlite-xeus-wren
-#jupyterlite-xeus-sqlite
+jupyterlite-xeus-lua
+jupyterlite-xeus-wren
+jupyterlite-xeus-sqlite
 JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 
