@@ -1,16 +1,16 @@
-#pandas
+pandas
 #jupyterlab
 
 #bqplot
-# ipycanvas
-# ipyevents
-# ipyleaflet
-#mpld3
-# markupsafe
-#ipympl
-#ipydrawio
-#ipydrawio-widgets
-#ipydrawio-export
+ipycanvas
+ipyevents
+ipyleaflet
+mpld3
+markupsafe
+ipympl
+ipydrawio
+ipydrawio-widgets
+ipydrawio-export
 #ipyradiant # Jupyter Widgets for working with RDF graphs
 #ipyflex # A WYSIWYG layout editor for Jupyter widgets https://github.com/trungleduc/ipyflex
 #IPySlides # Live rich content slides in jupyter notebook
@@ -35,14 +35,14 @@
 # xeus-sql
 # xeus-python  work working in browser, possible conflect on kernel
 jupyterlite
-# jupyterlite-xeus-python # work working in browser, possible conflect on kernel
-# jupyterlite-p5-kernel
-# jupyterlite_robotkernel
+jupyterlite-xeus-python # work working in browser, possible conflect on kernel
+jupyterlite-p5-kernel
+jupyterlite_robotkernel
 # jupyterlite_xeus_lfortran # Not matured 
-# jupyterlite-xeus-lua
-# jupyterlite-xeus-wren
-# jupyterlite-xeus-sqlite
-# JupyterLite-sphinx
+jupyterlite-xeus-lua
+jupyterlite-xeus-wren
+jupyterlite-xeus-sqlite
+JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 
 
@@ -69,22 +69,22 @@ jupyterlite
 
 # -- other Tools related to :: pyodide -----
 # pyodide # is a Python distribution for the browser and Node.js based on WebAssembly.
-# matplotlib-pyodide
-# pyodide-html
-# pyodide-http
-# pyodide-build
-# exodide
-# micropip
+matplotlib-pyodide
+pyodide-html
+pyodide-http
+pyodide-build
+exodide
+micropip
 
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
-#ipyscript # A Custom Jupyter Widget Library for PyScript.
-#flexx # is a pure Python toolkit for creating graphical user interfaces (GUI’s), 
+ipyscript # A Custom Jupyter Widget Library for PyScript.
+flexx # is a pure Python toolkit for creating graphical user interfaces (GUI’s), 
       # that uses web technology for its rendering. Apps are written purely in Python; 
       # The PScript transpiler generates the necessary JavaScript on the fly.
       # https://flexx.readthedocs.io/en/stable/
-#Castella #  is a pure Python cross-platform UI framework made for us Pythonista.
+Castella #  is a pure Python cross-platform UI framework made for us Pythonista.
          # https://i2y.github.io/castella/
-#htag # GUI toolkit for building GUI toolkits (and create beautiful applications for mobile, web, and desktop from a single python3 codebase),
+htag # GUI toolkit for building GUI toolkits (and create beautiful applications for mobile, web, and desktop from a single python3 codebase),
      # which render nativly in anything which can render html/js/css.
      # Interesting History and experinces from other tools like :
      # Guy (https://github.com/manatlan/guy), Python-eel (), remi (https://github.com/rawpython/remi) and gtag (https://github.com/manatlan/gtag)
@@ -95,14 +95,14 @@ jupyterlite
      # For a pyscript app : you can use the PyScript runner, which will run completly in client side
 
 # ==== Game Engines and 3D =====
-#pygbag # python wasm for everyone ( packager + test server ). Runs python code directly in modern web browsers, including mobile versions. 
+pygbag # python wasm for everyone ( packager + test server ). Runs python code directly in modern web browsers, including mobile versions. 
 # pyp5js # Python to P5.js Transcriptor. https://pypi.org/project/pyp5js/ . MyNotes: pyp5js works like server and template generator. & not updated to use latest Jinja
 # P5 # P5 is a Python library that provides high level drawing functionality to help you quickly create simulations and interactive art using Python. 
    # My Notes: P5 looks better than pyp5js in term of usability in Jupyter notebook # it have depedency on vispy
-#ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
-#Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
-#wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter
-#wasmpy # Interactions between WebAssembly and Python
-#pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
-#wasmtime
-#wasmer
+ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
+Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
+wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter
+wasmpy # Interactions between WebAssembly and Python
+pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
+wasmtime
+wasmer
