@@ -36,13 +36,13 @@ pandas
 # xeus-python  work working in browser, possible conflect on kernel
 jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
-# jupyterlite-p5-kernel
-# jupyterlite_robotkernel
+jupyterlite-p5-kernel
+jupyterlite_robotkernel
 # jupyterlite_xeus_lfortran # Not matured 
-#jupyterlite-xeus-lua
-#jupyterlite-xeus-wren
-#jupyterlite-xeus-sqlite
-# JupyterLite-sphinx
+jupyterlite-xeus-lua
+jupyterlite-xeus-wren
+jupyterlite-xeus-sqlite
+JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 
 
@@ -54,16 +54,16 @@ theme-darcula   # Not bad, also I need a gray Theme
 jupyterlab-theme-hale
 repo2jupyterlite
 replite
-#skillsnetwork-authoring-extension
-#jupyterlab-webrtc-docprovider
-#jupyter-videochat
+skillsnetwork-authoring-extension
+jupyterlab-webrtc-docprovider
+jupyter-videochat
 jupyterview
 jupyter-compare-view
 floatview
-# ipyvizzu # no relation with   PyOpenGL-accelerate
+ipyvizzu # no relation with   PyOpenGL-accelerate
 panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
 # https://github.com/MarcSkovMadsen/panel-sketch
-# graphscope-jupyter
+graphscope-jupyter
 
 pyotritonclient # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
 
