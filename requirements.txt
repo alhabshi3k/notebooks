@@ -10,10 +10,10 @@ jupyterlab-stickyland # Break free from the linear presentation of Jupyter Noteb
 #jupyterlab_comments # myNote: on the right bar, icon for comments
 #jupyterlab-snippets
 #jupyterlab-code-snippets
-# jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
+jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
 ## jupyterlab_templates
 jupyterlab_multicontents_templates # Inspired by 'Jupyterlab-templates' but added extra functions.
-jupyterlab-bookmarks-extension # A JupyterLab extension to provide Launcher icons for favorites. Allows 'bookmarking' files for quick access from the Launcher. 
+# jupyterlab-bookmarks-extension # A JupyterLab extension to provide Launcher icons for favorites. Allows 'bookmarking' files for quick access from the Launcher. 
                                # myNotes: more like templates
 bqplot
 ipycanvas
