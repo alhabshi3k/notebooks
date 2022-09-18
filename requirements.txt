@@ -65,9 +65,9 @@ ivy-core
 # GDAL
 # bearsql 
 # jupysql
-# atoti # Design, explore and deploy efficient and flexible data models
-# atoti-core # Package containing private symbols shared by the other atoti packages
-# atoti-jupyterlab # Plugin to interactively visualize atoti sessions in JupyterLab
+atoti # Design, explore and deploy efficient and flexible data models
+atoti-core # Package containing private symbols shared by the other atoti packages
+atoti-jupyterlab # Plugin to interactively visualize atoti sessions in JupyterLab
 xautoml # A JupyterLab extension to visualize and explain AutoML optimization procedures.
 # eidein # Interactive tool for dimensionality reduction of spectra and their visualisation 
 ipyelk # ELK layout algorithms widget for Jupyter 
