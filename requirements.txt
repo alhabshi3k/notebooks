@@ -2,15 +2,15 @@ pandas
 #jupyterlab
 
 #bqplot
-ipycanvas
-ipyevents
-ipyleaflet
-mpld3
-markupsafe
-ipympl
-ipydrawio
-ipydrawio-widgets
-ipydrawio-export
+#ipycanvas
+#ipyevents
+#ipyleaflet
+#mpld3
+#markupsafe
+#ipympl
+#ipydrawio
+#ipydrawio-widgets
+#ipydrawio-export
 #ipyradiant # Jupyter Widgets for working with RDF graphs
 #ipyflex # A WYSIWYG layout editor for Jupyter widgets https://github.com/trungleduc/ipyflex
 #IPySlides # Live rich content slides in jupyter notebook
@@ -35,7 +35,7 @@ ipydrawio-export
 # xeus-sql
 # xeus-python  work working in browser, possible conflect on kernel
 jupyterlite
-jupyterlite-xeus-python # work working in browser, possible conflect on kernel
+# jupyterlite-xeus-python # work working in browser, possible conflect on kernel
 jupyterlite-p5-kernel
 jupyterlite_robotkernel
 # jupyterlite_xeus_lfortran # Not matured 
