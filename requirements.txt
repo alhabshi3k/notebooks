@@ -1,18 +1,19 @@
 pandas
 jupyterlab
-ipywidgets
 jupyterlab-widgets
+ipylab
 jupyterlab_iframe
 jupyterlab-lsp
+jupyterlab_toastify 
 jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
 jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
 jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
 jupyterlab_comments # myNote: on the right bar, icon for comments
-jupyterlab-snippets
-# jupyterlab-code-snippets
+# jupyterlab-snippets # does not work Totally with Jupyter-lite
+# jupyterlab-code-snippets # this is not working with Jupyter-lite, just Only the interface is show, but command do not save.
 jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
-jupyterlab_templates
-jupyterlab_multicontents_templates # Inspired by 'Jupyterlab-templates' but added extra functions.
+# jupyterlab_templates nothing is shown except a tool to show templates that are no where !
+# jupyterlab_multicontents_templates # Inspired by 'Jupyterlab-templates' but added extra functions.
 # jupyterlab-bookmarks-extension # A JupyterLab extension to provide Launcher icons for favorites. Allows 'bookmarking' files for quick access from the Launcher. 
                                   # myNotes: more like templates
 # jupyterlab-bookmarks-extension is outdated that it drag other package to be old ones
@@ -20,6 +21,8 @@ bqplot
 ipycanvas
 ipyevents
 ipyleaflet
+mpld3
+markupsafe
 ipympl
 ipydrawio
 ipydrawio-widgets
@@ -52,7 +55,7 @@ jupyter-simlin # visual editor for system dynamics models. Simlin is a tool for 
                # leveling up your ability to learn. With Simlin you can iterate on strategy and policy 
                # faster than you can in the real world, with fewer costs and the freedom to fail.
 jupyterlab-image-editor
-jupyterlab_mosaic # Mosaic schematic editor lab extension
+# jupyterlab_mosaic # Mosaic schematic editor lab extension # not working with Jupyter-Lite
 jupyterlab-wav #  simple wave file viewer using WaveSurfer.js for JupyterLab.
 jupyterlab-requirements # JupyterLab Extension for dependency management and optimization
 jupyterlab-execute-time # Display cell timings in Jupyter Lab
