@@ -97,11 +97,11 @@ htag # GUI toolkit for building GUI toolkits (and create beautiful applications 
 # ==== Game Engines and 3D =====
 pygbag # python wasm for everyone ( packager + test server ). Runs python code directly in modern web browsers, including mobile versions. 
 # pyp5js # Python to P5.js Transcriptor. https://pypi.org/project/pyp5js/ . MyNotes: pyp5js works like server and template generator. & not updated to use latest Jinja
-# P5 # P5 is a Python library that provides high level drawing functionality to help you quickly create simulations and interactive art using Python. 
+P5 # P5 is a Python library that provides high level drawing functionality to help you quickly create simulations and interactive art using Python. 
    # My Notes: P5 looks better than pyp5js in term of usability in Jupyter notebook # it have depedency on vispy
 ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
 Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
-#wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter
+#wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter  # This degrade Jupyterlite new feature based on JupyterLab
 wasmpy # Interactions between WebAssembly and Python
 pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
 wasmtime
