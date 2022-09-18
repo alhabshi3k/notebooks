@@ -36,36 +36,36 @@ pandas
 # xeus-python  work working in browser, possible conflect on kernel
 jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
-# jupyterlite-p5-kernel
-# jupyterlite_robotkernel
+jupyterlite-p5-kernel
+jupyterlite_robotkernel
 # jupyterlite_xeus_lfortran # Not matured 
-#jupyterlite-xeus-lua
-#jupyterlite-xeus-wren
-#jupyterlite-xeus-sqlite
-# JupyterLite-sphinx
+jupyterlite-xeus-lua
+jupyterlite-xeus-wren
+jupyterlite-xeus-sqlite
+JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 
 
-#statworx-theme # A color theme for matplotlib using the offical statworx design
-#pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
-#jltheme # Change Matplotlib rcParams to match the current JupyterLab theme.
-#jupyterlab_miami_nights
-#theme-darcula   # Not bad, also I need a gray Theme
-#jupyterlab-theme-hale
-# repo2jupyterlite
-# replite
+statworx-theme # A color theme for matplotlib using the offical statworx design
+pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
+jltheme # Change Matplotlib rcParams to match the current JupyterLab theme.
+jupyterlab_miami_nights
+theme-darcula   # Not bad, also I need a gray Theme
+jupyterlab-theme-hale
+repo2jupyterlite
+replite
 #skillsnetwork-authoring-extension
-#jupyterlab-webrtc-docprovider
-#jupyter-videochat
-# jupyterview
-# jupyter-compare-view
-# floatview
-# ipyvizzu # no relation with   PyOpenGL-accelerate
-# panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
+jupyterlab-webrtc-docprovider
+jupyter-videochat
+jupyterview
+jupyter-compare-view
+floatview
+ipyvizzu # no relation with   PyOpenGL-accelerate
+panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
 # https://github.com/MarcSkovMadsen/panel-sketch
-# graphscope-jupyter
+graphscope-jupyter
 
-# pyotritonclient # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
+pyotritonclient # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
 
 # -- other Tools related to :: pyodide -----
 # pyodide # is a Python distribution for the browser and Node.js based on WebAssembly.
@@ -97,7 +97,7 @@ htag # GUI toolkit for building GUI toolkits (and create beautiful applications 
 # ==== Game Engines and 3D =====
 pygbag # python wasm for everyone ( packager + test server ). Runs python code directly in modern web browsers, including mobile versions. 
 # pyp5js # Python to P5.js Transcriptor. https://pypi.org/project/pyp5js/ . MyNotes: pyp5js works like server and template generator. & not updated to use latest Jinja
-P5 # P5 is a Python library that provides high level drawing functionality to help you quickly create simulations and interactive art using Python. 
+# P5 # P5 is a Python library that provides high level drawing functionality to help you quickly create simulations and interactive art using Python. 
    # My Notes: P5 looks better than pyp5js in term of usability in Jupyter notebook # it have depedency on vispy
 ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
 Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
