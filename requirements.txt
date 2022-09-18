@@ -61,7 +61,7 @@ calysto
 # postgres_kernel
 sqlp-kernel
 mlflow-kernel
-ivy-core
+# ivy-core
 # GDAL
 bearsql 
 jupysql
