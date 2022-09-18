@@ -63,8 +63,8 @@ sqlp-kernel
 mlflow-kernel
 ivy-core
 # GDAL
-bearsql 
-jupysql
+bearsql
+# jupysql
 # atoti # Design, explore and deploy efficient and flexible data models
 # atoti-core # Package containing private symbols shared by the other atoti packages
 # atoti-jupyterlab # Plugin to interactively visualize atoti sessions in JupyterLab
