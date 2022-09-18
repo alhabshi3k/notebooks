@@ -17,7 +17,7 @@ IPySlides # Live rich content slides in jupyter notebook
 
 jupyterlab_iframe
 jupyterlab-lsp
-jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
+jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot # Sadly, not working on Jupyterlite
 jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
 jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
 jupyterlab_comments # myNote: on the right bar, icon for comments
@@ -48,6 +48,7 @@ jupyterlab-requirements # JupyterLab Extension for dependency management and opt
 jupyterlab-execute-time # Display cell timings in Jupyter Lab
 jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
 jupyterlab-filesystem-access
+jupyterlab_thredds
 # The main motivation for this extension (jupyterlab-filesystem-access) is to give access to local files in JupyterLite. 
 # This extension is compatible with Chromium-based browsers only (for now:August 2,2022)
 jupyter-innotater # An Inline Data Annotator for Jupyter #  useful for DL data annotation
@@ -60,7 +61,10 @@ calysto
 # postgres_kernel
 sqlp-kernel
 mlflow-kernel
-
+ivy-core
+GDAL
+bearsql 
+jupysql
 # ----------------------
 # xeus-sql
 # xeus-python  work working in browser, possible conflect on kernel
@@ -85,6 +89,11 @@ dsvisualizer # A simple data structure visualizer for Jupyter Notebooks. https:/
 ipyx # A Jupyter widget library for reactive variables
 ipybertin # A Jupyter - Bertin.js bridge, which Bertin.js is A package to draw maps in javascript based on D3.js 
 
+xautoml # A JupyterLab extension to visualize and explain AutoML optimization procedures.
+eidein # Interactive tool for dimensionality reduction of spectra and their visualisation 
+ipyelk # ELK layout algorithms widget for Jupyter 
+HCIplot # High-contrast Imaging Plotting library.
+k3d # 3D visualization library # https://k3d-jupyter.org/
 
 statworx-theme # A color theme for matplotlib using the offical statworx design
 pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
@@ -103,6 +112,15 @@ floatview
 ipyvizzu # no relation with   PyOpenGL-accelerate
 panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
 # https://github.com/MarcSkovMadsen/panel-sketch
+
+# jupyterlab-snippets # does not work Totally with Jupyter-lite
+# jupyterlab-code-snippets # this is not working with Jupyter-lite, just Only the interface is show, but command do not save.
+
+# jupyterlab_templates nothing is shown except a tool to show templates that are no where !
+# jupyterlab_multicontents_templates # Inspired by 'Jupyterlab-templates' but added extra functions.
+# jupyterlab-bookmarks-extension # !!! A JupyterLab extension to provide Launcher icons for favorites. Allows 'bookmarking' files for quick access from the Launcher. 
+                                  # myNotes: more like templates
+# !!! jupyterlab-bookmarks-extension is outdated that it drag other package to be old ones
 
 
 pyotritonclient # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
@@ -143,7 +161,11 @@ ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy
 Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
 wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter  # This degrade Jupyterlite new feature based on JupyterLab
 wasmpy # Interactions between WebAssembly and Python
+wasmpy-build # Emscripten compatible build script for CPython C extensions
 pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
 wasmtime
 wasmer
+wasmer-compiler-llvm  # since this will be compiled on the browser, I AM NOT SURE it is work cross platform
+wasmer-compiler-cranelift
+wasmer-compiler-singlepass
 pyaswasm # Loader of AssemblyScript WASM modules into Python with Wasmer backend
