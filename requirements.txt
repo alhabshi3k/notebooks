@@ -1,21 +1,6 @@
 pandas
 jupyterlab
-jupyterlab-widgets
-ipylab
-jupyterlab_iframe
-jupyterlab-lsp
-jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
-jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
-jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
-jupyterlab_comments # myNote: on the right bar, icon for comments
-# jupyterlab-snippets # does not work Totally with Jupyter-lite
-# jupyterlab-code-snippets # this is not working with Jupyter-lite, just Only the interface is show, but command do not save.
-jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
-# jupyterlab_templates nothing is shown except a tool to show templates that are no where !
-# jupyterlab_multicontents_templates # Inspired by 'Jupyterlab-templates' but added extra functions.
-# jupyterlab-bookmarks-extension # A JupyterLab extension to provide Launcher icons for favorites. Allows 'bookmarking' files for quick access from the Launcher. 
-                                  # myNotes: more like templates
-# jupyterlab-bookmarks-extension is outdated that it drag other package to be old ones
+
 bqplot
 ipycanvas
 ipyevents
@@ -32,9 +17,7 @@ IPySlides # Live rich content slides in jupyter notebook
 # postgres_kernel
 sqlp-kernel
 mlflow-kernel
-# ----- Reinstall some other packages ----
-metakernel
-calysto
+
 # ----------------------
 jupyterlab-fasta
 jupyterlab-geojson
@@ -46,24 +29,8 @@ jupyterlab-citation-manager
 jupyterlab-dash
 jupyterlab-itables
 # jupyterlab-unfold
-jupyterlab-fonts
-jupyterlab-plugin-graph # JupyterLab extension to show an interactive dependency graph of the installed plugins
-jupyterlab-jitsi # A jupyterlab extension to add a Jitsi chat
-jupyterlab-blockly
-jupyter-simlin # visual editor for system dynamics models. Simlin is a tool for simulation modeling, 
-               # leveling up your ability to learn. With Simlin you can iterate on strategy and policy 
-               # faster than you can in the real world, with fewer costs and the freedom to fail.
-jupyterlab-image-editor
-# jupyterlab_mosaic # Mosaic schematic editor lab extension # not working with Jupyter-Lite
-jupyterlab-wav #  simple wave file viewer using WaveSurfer.js for JupyterLab.
-jupyterlab-requirements # JupyterLab Extension for dependency management and optimization
-jupyterlab-execute-time # Display cell timings in Jupyter Lab
-jupyterlab-filesystem-access
-# The main motivation for this extension (jupyterlab-filesystem-access) is to give access to local files in JupyterLite. 
-# This extension is compatible with Chromium-based browsers only (for now:August 2,2022)
-jupyter-innotater # An Inline Data Annotator for Jupyter #  useful for DL data annotation
-ipyannotations # Create rich adata annotations in jupyter notebooks.
-tiledb-plot-widget
+
+
 # ----------------------
 # xeus-sql
 # xeus-python  work working in browser, possible conflect on kernel
@@ -78,14 +45,6 @@ jupyterlite-xeus-sqlite
 JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 
-# ---------------------
-vispy
-aitk.keras
-plotly
-imjoy-jupyterlab-extension # 
-dsvisualizer # A simple data structure visualizer for Jupyter Notebooks. https://github.com/romero-jose/dsvisualizer
-ipyx # A Jupyter widget library for reactive variables
-ipybertin # A Jupyter - Bertin.js bridge, which Bertin.js is A package to draw maps in javascript based on D3.js 
 
 statworx-theme # A color theme for matplotlib using the offical statworx design
 pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
@@ -110,12 +69,12 @@ pyotritonclient # A lightweight http client library for communicating with Nvidi
 
 # -- other Tools related to :: pyodide -----
 # pyodide # is a Python distribution for the browser and Node.js based on WebAssembly.
-matplotlib-pyodide
-pyodide-html
-pyodide-http
-pyodide-build
-exodide
-micropip
+# matplotlib-pyodide
+# pyodide-html
+# pyodide-http
+# pyodide-build
+# exodide
+# micropip
 
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
 ipyscript # A Custom Jupyter Widget Library for PyScript.
