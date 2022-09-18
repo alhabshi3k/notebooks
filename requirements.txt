@@ -46,9 +46,9 @@ jupyterlite
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 
 
-#statworx-theme # A color theme for matplotlib using the offical statworx design
-#pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
-#jltheme # Change Matplotlib rcParams to match the current JupyterLab theme.
+statworx-theme # A color theme for matplotlib using the offical statworx design
+pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
+jltheme # Change Matplotlib rcParams to match the current JupyterLab theme.
 jupyterlab_miami_nights
 theme-darcula   # Not bad, also I need a gray Theme
 jupyterlab-theme-hale
@@ -69,7 +69,7 @@ pyotritonclient # A lightweight http client library for communicating with Nvidi
 
 # -- other Tools related to :: pyodide -----
 # pyodide # is a Python distribution for the browser and Node.js based on WebAssembly.
-# matplotlib-pyodide
+matplotlib-pyodide
 # pyodide-html
 # pyodide-http
 # pyodide-build
@@ -101,7 +101,7 @@ pygbag # python wasm for everyone ( packager + test server ). Runs python code d
    # My Notes: P5 looks better than pyp5js in term of usability in Jupyter notebook # it have depedency on vispy
 ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
 Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
-#wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter  # This degrade Jupyterlite new feature based on JupyterLab
+wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter  # This degrade Jupyterlite new feature based on JupyterLab
 wasmpy # Interactions between WebAssembly and Python
 pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
 wasmtime
