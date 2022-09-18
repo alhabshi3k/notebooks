@@ -4,7 +4,6 @@ jupyterlab-widgets
 ipylab
 jupyterlab_iframe
 jupyterlab-lsp
-jupyterlab_toastify 
 jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
 jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
 jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
