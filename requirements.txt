@@ -61,13 +61,18 @@ calysto
 # postgres_kernel
 sqlp-kernel
 mlflow-kernel
-# ivy-core
+ivy-core
 # GDAL
 # bearsql 
 # jupysql
 # atoti # Design, explore and deploy efficient and flexible data models
 # atoti-core # Package containing private symbols shared by the other atoti packages
 # atoti-jupyterlab # Plugin to interactively visualize atoti sessions in JupyterLab
+xautoml # A JupyterLab extension to visualize and explain AutoML optimization procedures.
+# eidein # Interactive tool for dimensionality reduction of spectra and their visualisation 
+ipyelk # ELK layout algorithms widget for Jupyter 
+HCIplot # High-contrast Imaging Plotting library.
+k3d # 3D visualization library # https://k3d-jupyter.org/
 # ----------------------
 # xeus-sql
 # xeus-python  work working in browser, possible conflect on kernel
@@ -92,11 +97,7 @@ dsvisualizer # A simple data structure visualizer for Jupyter Notebooks. https:/
 ipyx # A Jupyter widget library for reactive variables
 ipybertin # A Jupyter - Bertin.js bridge, which Bertin.js is A package to draw maps in javascript based on D3.js 
 
-xautoml # A JupyterLab extension to visualize and explain AutoML optimization procedures.
-eidein # Interactive tool for dimensionality reduction of spectra and their visualisation 
-ipyelk # ELK layout algorithms widget for Jupyter 
-HCIplot # High-contrast Imaging Plotting library.
-k3d # 3D visualization library # https://k3d-jupyter.org/
+
 
 statworx-theme # A color theme for matplotlib using the offical statworx design
 pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
