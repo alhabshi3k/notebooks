@@ -1,5 +1,5 @@
-pandas
-jupyterlab
+#pandas
+#jupyterlab
 
 #bqplot
 # ipycanvas
@@ -15,19 +15,19 @@ jupyterlab
 #ipyflex # A WYSIWYG layout editor for Jupyter widgets https://github.com/trungleduc/ipyflex
 #IPySlides # Live rich content slides in jupyter notebook
 # postgres_kernel
-sqlp-kernel
-mlflow-kernel
+# sqlp-kernel
+# mlflow-kernel
 
 # ----------------------
-jupyterlab-fasta
-jupyterlab-geojson
-jupyterlab-tour
+# jupyterlab-fasta
+# jupyterlab-geojson
+# jupyterlab-tour
 # jupyterlab-git # to test later # if you want to use git from JupyterLab, you should look at the jupyterlab-git extension.
-jupyterlab-github
+# jupyterlab-github
 # jlab-enhanced-launcher # A enhanced launcher for JupyterLab # Does NOT work with JupyterLite !!! Do not install
-jupyterlab-citation-manager
-jupyterlab-dash
-jupyterlab-itables
+# jupyterlab-citation-manager
+# jupyterlab-dash
+# jupyterlab-itables
 # jupyterlab-unfold
 
 
@@ -36,13 +36,13 @@ jupyterlab-itables
 # xeus-python  work working in browser, possible conflect on kernel
 jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
-jupyterlite-p5-kernel
-jupyterlite_robotkernel
+# jupyterlite-p5-kernel
+# jupyterlite_robotkernel
 # jupyterlite_xeus_lfortran # Not matured 
-jupyterlite-xeus-lua
-jupyterlite-xeus-wren
-jupyterlite-xeus-sqlite
-JupyterLite-sphinx
+# jupyterlite-xeus-lua
+# jupyterlite-xeus-wren
+# jupyterlite-xeus-sqlite
+# JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 
 
@@ -52,8 +52,8 @@ JupyterLite-sphinx
 #jupyterlab_miami_nights
 #theme-darcula   # Not bad, also I need a gray Theme
 #jupyterlab-theme-hale
-repo2jupyterlite
-replite
+# repo2jupyterlite
+# replite
 #skillsnetwork-authoring-extension
 #jupyterlab-webrtc-docprovider
 #jupyter-videochat
