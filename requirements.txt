@@ -52,16 +52,16 @@ jupyterlite
 jupyterlab_miami_nights
 theme-darcula   # Not bad, also I need a gray Theme
 jupyterlab-theme-hale
-# repo2jupyterlite
-# replite
+repo2jupyterlite
+replite
 #skillsnetwork-authoring-extension
 #jupyterlab-webrtc-docprovider
 #jupyter-videochat
-# jupyterview
-# jupyter-compare-view
-# floatview
+jupyterview
+jupyter-compare-view
+floatview
 # ipyvizzu # no relation with   PyOpenGL-accelerate
-# panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
+panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
 # https://github.com/MarcSkovMadsen/panel-sketch
 # graphscope-jupyter
 
@@ -73,8 +73,8 @@ pyotritonclient # A lightweight http client library for communicating with Nvidi
 # pyodide-html
 # pyodide-http
 # pyodide-build
-# exodide
-# micropip
+exodide
+micropip
 
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
 ipyscript # A Custom Jupyter Widget Library for PyScript.
