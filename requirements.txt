@@ -36,13 +36,13 @@ pandas
 # xeus-python  work working in browser, possible conflect on kernel
 jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
-# jupyterlite-p5-kernel
-# jupyterlite_robotkernel
+jupyterlite-p5-kernel
+jupyterlite_robotkernel
 # jupyterlite_xeus_lfortran # Not matured 
-#jupyterlite-xeus-lua
-#jupyterlite-xeus-wren
-#jupyterlite-xeus-sqlite
-# JupyterLite-sphinx
+jupyterlite-xeus-lua
+jupyterlite-xeus-wren
+jupyterlite-xeus-sqlite
+JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 
 
