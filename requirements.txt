@@ -1,24 +1,24 @@
 pandas
 #jupyterlab
 
-#bqplot
-#ipycanvas
-#ipyevents
-#ipyleaflet
-#mpld3
-#markupsafe
-#ipympl
+bqplot
+ipycanvas
+ipyevents
+ipyleaflet
+mpld3
+markupsafe
+ipympl
 ipydrawio
 ipydrawio-widgets
 ipydrawio-export
-#ipyradiant # Jupyter Widgets for working with RDF graphs
-#ipyflex # A WYSIWYG layout editor for Jupyter widgets https://github.com/trungleduc/ipyflex
-#IPySlides # Live rich content slides in jupyter notebook
+ipyradiant # Jupyter Widgets for working with RDF graphs
+ipyflex # A WYSIWYG layout editor for Jupyter widgets https://github.com/trungleduc/ipyflex
+IPySlides # Live rich content slides in jupyter notebook
 # postgres_kernel
-# sqlp-kernel
-# mlflow-kernel
-# jupyterlab-bpmn # diagram model format
-# jupyterlab-dmn  # diagram model format
+sqlp-kernel
+mlflow-kernel
+jupyterlab-bpmn # diagram model format
+jupyterlab-dmn  # diagram model format
 # ----------------------
 jupyterlab-fasta
 jupyterlab-geojson
@@ -28,8 +28,8 @@ jupyterlab-tour
 jupyterlab-github
 # jlab-enhanced-launcher # A enhanced launcher for JupyterLab # Does NOT work with JupyterLite !!! Do not install
 jupyterlab-citation-manager
-# jupyterlab-dash
-# jupyterlab-itables
+jupyterlab-dash
+jupyterlab-itables
 # jupyterlab-unfold
 
 
@@ -108,3 +108,4 @@ wasmpy # Interactions between WebAssembly and Python
 pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
 wasmtime
 wasmer
+pyaswasm # Loader of AssemblyScript WASM modules into Python with Wasmer backend
