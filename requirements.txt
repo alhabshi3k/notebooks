@@ -6,15 +6,16 @@ jupyterlab_iframe
 jupyterlab-lsp
 jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot
 jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
-# jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
-#jupyterlab_comments # myNote: on the right bar, icon for comments
-#jupyterlab-snippets
-#jupyterlab-code-snippets
+jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
+jupyterlab_comments # myNote: on the right bar, icon for comments
+jupyterlab-snippets
+jupyterlab-code-snippets
 jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
 ## jupyterlab_templates
 jupyterlab_multicontents_templates # Inspired by 'Jupyterlab-templates' but added extra functions.
 # jupyterlab-bookmarks-extension # A JupyterLab extension to provide Launcher icons for favorites. Allows 'bookmarking' files for quick access from the Launcher. 
-                               # myNotes: more like templates
+                                  # myNotes: more like templates
+# jupyterlab-bookmarks-extension is outdated that it drag other package to be old ones
 bqplot
 ipycanvas
 ipyevents
