@@ -8,7 +8,7 @@ jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impre
 jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
 jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
 jupyterlab_comments # myNote: on the right bar, icon for comments
-jupyterlab-snippets
+# jupyterlab-snippets
 jupyterlab-code-snippets
 jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
 ## jupyterlab_templates
