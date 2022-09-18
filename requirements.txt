@@ -65,9 +65,9 @@ mlflow-kernel
 # GDAL
 bearsql 
 jupysql
-atoti # Design, explore and deploy efficient and flexible data models
-atoti-core # Package containing private symbols shared by the other atoti packages
-atoti-jupyterlab # Plugin to interactively visualize atoti sessions in JupyterLab
+# atoti # Design, explore and deploy efficient and flexible data models
+# atoti-core # Package containing private symbols shared by the other atoti packages
+# atoti-jupyterlab # Plugin to interactively visualize atoti sessions in JupyterLab
 # ----------------------
 # xeus-sql
 # xeus-python  work working in browser, possible conflect on kernel
