@@ -21,6 +21,7 @@ pandas
 # ----------------------
 # jupyterlab-fasta
 # jupyterlab-geojson
+# jupyterlab-bpmn
 # jupyterlab-tour
 # jupyterlab-git # to test later # if you want to use git from JupyterLab, you should look at the jupyterlab-git extension.
 # jupyterlab-github
@@ -37,7 +38,7 @@ pandas
 jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
 jupyterlite-p5-kernel
-jupyterlite_robotkernel
+# jupyterlite_robotkernel  # possible this is responsible for degrading 
 # jupyterlite_xeus_lfortran # Not matured 
 #jupyterlite-xeus-lua
 #jupyterlite-xeus-wren
