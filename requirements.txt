@@ -36,22 +36,22 @@ pandas
 # xeus-python  work working in browser, possible conflect on kernel
 jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
-jupyterlite-p5-kernel
-jupyterlite_robotkernel
+# jupyterlite-p5-kernel
+# jupyterlite_robotkernel
 # jupyterlite_xeus_lfortran # Not matured 
-jupyterlite-xeus-lua
-jupyterlite-xeus-wren
-jupyterlite-xeus-sqlite
-JupyterLite-sphinx
+#jupyterlite-xeus-lua
+#jupyterlite-xeus-wren
+#jupyterlite-xeus-sqlite
+# JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 
 
 #statworx-theme # A color theme for matplotlib using the offical statworx design
 #pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
 #jltheme # Change Matplotlib rcParams to match the current JupyterLab theme.
-#jupyterlab_miami_nights
-#theme-darcula   # Not bad, also I need a gray Theme
-#jupyterlab-theme-hale
+jupyterlab_miami_nights
+theme-darcula   # Not bad, also I need a gray Theme
+jupyterlab-theme-hale
 # repo2jupyterlite
 # replite
 #skillsnetwork-authoring-extension
