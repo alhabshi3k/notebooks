@@ -8,10 +8,10 @@ jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impre
 jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
 jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
 jupyterlab_comments # myNote: on the right bar, icon for comments
-# jupyterlab-snippets
-jupyterlab-code-snippets
+jupyterlab-snippets
+# jupyterlab-code-snippets
 jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
-## jupyterlab_templates
+jupyterlab_templates
 jupyterlab_multicontents_templates # Inspired by 'Jupyterlab-templates' but added extra functions.
 # jupyterlab-bookmarks-extension # A JupyterLab extension to provide Launcher icons for favorites. Allows 'bookmarking' files for quick access from the Launcher. 
                                   # myNotes: more like templates
@@ -34,8 +34,8 @@ mlflow-kernel
 metakernel
 calysto
 # ----------------------
-jupyterlab-fasta>=3,<4
-jupyterlab-geojson>=3,<4
+jupyterlab-fasta
+jupyterlab-geojson
 jupyterlab-tour
 # jupyterlab-git # to test later # if you want to use git from JupyterLab, you should look at the jupyterlab-git extension.
 jupyterlab-github
@@ -143,3 +143,5 @@ Enpyre # is an open-source library to render 2D games made with Python in React 
 wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter
 wasmpy # Interactions between WebAssembly and Python
 pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
+wasmtime
+wasmer
