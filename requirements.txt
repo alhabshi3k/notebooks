@@ -39,8 +39,7 @@ jupyterlab-lsp
 autoplotter
 dash-daq 
 plotly
-
-python-kaleido
+kaleido
 jupyterlab-autoplot  # https://github.com/man-group/jupyterlab-autoplot  # impressive way to plot # Sadly, not working on Jupyterlite
 jupyterlab-stickyland # Break free from the linear presentation of Jupyter Notebooks with sticky cells!
 jupyterlab-skip-traceback # makes tracking errors focus on the target and not the details.
