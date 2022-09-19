@@ -25,6 +25,7 @@ jobs:
         run: |
           cp README.md content
           jupyter labextension install @jupyter-widgets/jupyterlab-manager
+          jlpm add jupyterlab_toastify
           jupyter lite build --contents content --output-dir dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
