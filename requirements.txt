@@ -1,6 +1,24 @@
 pandas
-#jupyterlab
+xarray
+astropy
+cloudpickle
+doit
+entrypoints
+
+ipywidgets
+jupyterlab
+jupyter-core
+jupyter-server
+jupyterlab-widgets
+widgetsnbextension
 ipylab
+
+Folium
+branca
+geemap
+eemont
+geeViz
+
 bqplot
 ipycanvas
 ipyevents
@@ -14,6 +32,8 @@ ipydrawio-export
 ipyradiant # Jupyter Widgets for working with RDF graphs
 ipyflex # A WYSIWYG layout editor for Jupyter widgets https://github.com/trungleduc/ipyflex
 IPySlides # Live rich content slides in jupyter notebook
+
+
 
 jupyterlab_iframe
 jupyterlab-lsp
@@ -44,7 +64,7 @@ jupyter-simlin # visual editor for system dynamics models. Simlin is a tool for 
 jupyterlab-image-editor
 # jupyterlab_mosaic # Mosaic schematic editor lab extension # not working with Jupyter-Lite
 jupyterlab-wav #  simple wave file viewer using WaveSurfer.js for JupyterLab.
-jupyterlab-requirements # JupyterLab Extension for dependency management and optimization
+# jupyterlab-requirements # JupyterLab Extension for dependency management and optimization # MyNote: Needs further testing, how it works or it do not work in Jupyterlite
 jupyterlab-execute-time # Display cell timings in Jupyter Lab
 jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells based on cell tags
 jupyterlab-filesystem-access
@@ -59,6 +79,8 @@ graphscope-jupyter
 metakernel
 calysto
 # postgres_kernel
+xeus-python
+jupyterlite-xeus-python
 sqlp-kernel
 mlflow-kernel
 ivy-core
@@ -99,6 +121,7 @@ ipybertin # A Jupyter - Bertin.js bridge, which Bertin.js is A package to draw m
 
 
 
+jupyterthemes
 statworx-theme # A color theme for matplotlib using the offical statworx design
 pyplot-themes # Easily set themes that automatically apply to matplotlib, seaborn, and pandas plots
 jltheme # Change Matplotlib rcParams to match the current JupyterLab theme.
@@ -137,7 +160,8 @@ pyodide-http
 pyodide-build
 exodide
 micropip
-
+piplite
+build
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
 ipyscript # A Custom Jupyter Widget Library for PyScript.
 flexx # is a pure Python toolkit for creating graphical user interfaces (GUI’s), 
