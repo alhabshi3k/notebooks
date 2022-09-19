@@ -79,8 +79,8 @@ graphscope-jupyter
 metakernel
 calysto
 # postgres_kernel
-xeus-sql
-xeus-cling
+comm
+nbterm
 xeus-robot
 xeus-python
 jupyterlite-xeus-python
