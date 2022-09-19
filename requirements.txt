@@ -10,7 +10,7 @@ jupyterlab
 jupyter-core
 jupyter-server
 jupyterlab-widgets
-widgetsnbextension
+widgetsnbextension~=4.0
 ipylab
 
 Folium
