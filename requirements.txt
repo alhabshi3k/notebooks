@@ -72,6 +72,7 @@ jupyterlab-empinken-extension # Coloured JupyterLab / RetroLab notebook cells ba
 jupyterlab-filesystem-access  # The main motivation for this extension (jupyterlab-filesystem-access) is to give access to local files in JupyterLite. 
                               # This extension is compatible with Chromium-based browsers only (for now:August 2,2022)
 jupyterlab_thredds
+qsl # A quick and simple tool for labeling images, videos and time series data, right from Jupyter!  https://pypi.org/project/qsl/
 jupyter-innotater # An Inline Data Annotator for Jupyter #  useful for DL data annotation
 ipyannotations # Create rich adata annotations in jupyter notebooks.
 tiledb-plot-widget

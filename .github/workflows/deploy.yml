@@ -24,8 +24,10 @@ jobs:
       - name: Build the JupyterLite site
         run: |
           cp README.md content
-          jupyter labextension install @jupyter-widgets/jupyterlab-manager
+          jlpm add @jupyter-widgets/jupyterlab-manager
           jlpm add jupyterlab_toastify
+          jlpm add @krassowski/jupyterlab-lsp
+          jlpm add @mangroup/jupyterlab-autoplot-display
           jupyter lite build --contents content --output-dir dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
