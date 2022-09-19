@@ -159,8 +159,7 @@ pyodide-html
 pyodide-http
 pyodide-build
 exodide
-micropip
-piplite
+micropip # piplite is created on the fly
 build
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
 ipyscript # A Custom Jupyter Widget Library for PyScript.
