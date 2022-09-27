@@ -66,20 +66,8 @@ dependencies:
   - ipyvizzu
   - flexx
   - ipyelk
-  - HCIplot
-  - k3d
-  - xautoml
-  - jupysql
-  - sqlp-kernel
-  - mlflow-kernel
   - ibis-framework
-  - duckdb
-  - tiledb-plot-widget
-  - ipyannotations
-  - jupyterlab_thredds
-  - qsl
-  - jupyter-innotater
-  - ipyannotations
+
 # ------------------------------------
   - pip
   - pip:
@@ -121,6 +109,18 @@ dependencies:
      - panel-sketch
      - Castella
      - htag
+     - HCIplot
+     - k3d
+     - xautoml
+     - jupysql
+     - sqlp-kernel
+     - mlflow-kernel
+     - duckdb
+     - tiledb-plot-widget
+     - jupyterlab_thredds
+     - qsl
+     - jupyter-innotater
+     - ipyannotations
      # ------------------------------------
      - wasm-spec-kernel
      - wasmpy
