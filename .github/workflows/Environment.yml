@@ -1,0 +1,26 @@
+name: Mamba_installation
+channels:
+  - javascript
+dependencies:
+  - python=3.10
+  - bokeh
+  - numpy
+  - pandas
+  - xarray
+  - astropy
+  - nodejs
+  - cloudpickle
+  - doit
+  - entrypoints
+  - dtale
+  - ipywidgets
+  - jupyterlab
+  - jupyter-core
+  - jupyter-server
+  - jupyterlab-widgets
+  - widgetsnbextension~=4.0
+  - ipylab
+  - Flask
+  - pip
+  - pip:
+    - Flask-Testing

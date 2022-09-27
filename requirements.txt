@@ -1,17 +1,17 @@
-pandas
-xarray
-astropy
-cloudpickle
-doit
-entrypoints
-dtale
-ipywidgets
-jupyterlab
-jupyter-core
-jupyter-server
-jupyterlab-widgets
-widgetsnbextension~=4.0
-ipylab
+# pandas
+# xarray
+# astropy
+# cloudpickle
+# doit
+# entrypoints
+# dtale
+# ipywidgets
+# jupyterlab
+# jupyter-core
+# jupyter-server
+# jupyterlab-widgets
+# widgetsnbextension~=4.0
+# ipylab
 
 Folium
 branca
