@@ -57,9 +57,20 @@ dependencies:
   - theme-darcula
   - jupyterlab-fonts
 # ------------------------------------
+  - ivy-core
   - vispy
   - ipyx
   - ipybertin
+  - jupyterlab-webrtc-docprovider
+  - jupyter-videochat
+  - jupyterview
+  - jupyter-compare-view
+  - floatview
+  - ipyvizzu
+  - panel-sketch
+  - flexx
+  - Castella
+  - htag
 # ------------------------------------
   - pip
   - pip:
@@ -118,11 +129,16 @@ dependencies:
      # ------------------------------------
      - jupyterlite
      - jupyterlite-p5-kernel
+     - jupyterlite-xeus-python
      - jupyterlite-xeus-lua
      - jupyterlite-xeus-wren
      - jupyterlite-xeus-sqlite
      - JupyterLite-sphinx
+     - repo2jupyterlite
+     - replite
      # ------------------------------------
+     - ipyscript 
      - ipyp5
      - pygbag
      - Enpyre
+     # ------------------------------------

@@ -89,10 +89,10 @@ duckdb
 # nbterm
 # xeus-robot
 #-xeus-python
-jupyterlite-xeus-python
+#-jupyterlite-xeus-python
 sqlp-kernel
 mlflow-kernel
-ivy-core
+#-ivy-core
 # GDAL
 # bearsql
 jupysql # https://github.com/ploomber/jupysql
@@ -116,8 +116,8 @@ k3d # 3D visualization library # https://k3d-jupyter.org/
 #- jupyterlite-xeus-sqlite
 #- JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
-repo2jupyterlite
-replite
+#-repo2jupyterlite
+#-replite
 # ---------------------
 #-vispy
 #-aitk.keras
@@ -137,13 +137,13 @@ replite
 #-jupyterlab-fonts
 #- skillsnetwork-authoring-extension
 
-jupyterlab-webrtc-docprovider
-jupyter-videochat
-jupyterview
-jupyter-compare-view
-floatview
-ipyvizzu # no relation with   PyOpenGL-accelerate
-panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
+#-jupyterlab-webrtc-docprovider
+#-jupyter-videochat
+#-jupyterview
+#-jupyter-compare-view
+#-floatview
+#-ipyvizzu # no relation with   PyOpenGL-accelerate
+#-panel-sketch # To sketch high performing, interactive visualizations running in the browser and drawing inspiration from p5js
 # https://github.com/MarcSkovMadsen/panel-sketch
 
 # jupyterlab-snippets # does not work Totally with Jupyter-lite
@@ -168,14 +168,14 @@ panel-sketch # To sketch high performing, interactive visualizations running in 
 #-micropip # piplite is created on the fly
 # build
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
-ipyscript # A Custom Jupyter Widget Library for PyScript.
-flexx # is a pure Python toolkit for creating graphical user interfaces (GUI’s), 
+#-ipyscript # A Custom Jupyter Widget Library for PyScript.
+#-flexx # is a pure Python toolkit for creating graphical user interfaces (GUI’s), 
       # that uses web technology for its rendering. Apps are written purely in Python; 
       # The PScript transpiler generates the necessary JavaScript on the fly.
       # https://flexx.readthedocs.io/en/stable/
-Castella #  is a pure Python cross-platform UI framework made for us Pythonista.
+#-Castella #  is a pure Python cross-platform UI framework made for us Pythonista.
          # https://i2y.github.io/castella/
-htag # GUI toolkit for building GUI toolkits (and create beautiful applications for mobile, web, and desktop from a single python3 codebase),
+#-htag # GUI toolkit for building GUI toolkits (and create beautiful applications for mobile, web, and desktop from a single python3 codebase),
      # which render nativly in anything which can render html/js/css.
      # Interesting History and experinces from other tools like :
      # Guy (https://github.com/manatlan/guy), Python-eel (), remi (https://github.com/rawpython/remi) and gtag (https://github.com/manatlan/gtag)
