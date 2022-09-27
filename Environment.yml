@@ -74,9 +74,9 @@ dependencies:
   - GDAL 
   - jupyterlab-unfold
   - jlab-enhanced-launcher
-  - xeus-sql
-  - xeus-cling
-  - xeus-octave
+  #- xeus-sql
+  #- xeus-cling
+  #- xeus-octave
   - jupyterlab_pygments
   - jupyterlab-topbar
   - jupyterlab-plotly-extension
@@ -84,7 +84,6 @@ dependencies:
   - jupyterlab-mosaic
   - jupyterlab-interactive-dashboard-editor
   - jupyterlab-google-drive
-  - 
 # ------------------------------------
   - pip
   - pip:
@@ -124,7 +123,7 @@ dependencies:
      - jupyter-compare-view
      - floatview
      - panel-sketch
-     # - Castella
+     - Castella
      - htag
      - HCIplot
      - k3d
