@@ -42,6 +42,7 @@ dependencies:
   - jupyterlab-fasta
   - jupyterlab-geojson
   - jupyterlab-tour
+  - jupyterlab-git
   - jupyterlab-github
   - jupyterlab-dash
   - jupyterlab-plugin-graph
@@ -70,7 +71,9 @@ dependencies:
   - ibis-framework
 # ---------The Problimatics-----------
   - GDAL 
-
+  - jupyterlab-unfold
+  - jlab-enhanced-launcher
+  - xeus-sql
 # ------------------------------------
   - pip
   - pip:
@@ -163,6 +166,8 @@ dependencies:
      - atoti
      - atoti-core
      - atoti-jupyterlab
-     - eidein
+     # - eidein # still have some problem
+     # https://github.com/podondra/eidein
+     # https://pypi.org/project/eidein
      - bearsql
      - P5
