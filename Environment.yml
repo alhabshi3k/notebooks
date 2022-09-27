@@ -1,6 +1,7 @@
 name: Mamba_installation
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python=3.10
   - nodejs
@@ -51,7 +52,6 @@ dependencies:
   - jupyterlab_miami_nights
   - theme-darcula
   - jupyterlab-fonts
-
 # ------------------------------------
   - vispy
   - ipyx
@@ -88,7 +88,7 @@ dependencies:
      - jltheme
      - jupyterlab-theme-hale
      - skillsnetwork-authoring-extension
-    - pyotritonclient
+     - pyotritonclient
      # ------------------------------------
      - wasm-spec-kernel
      - wasmpy
