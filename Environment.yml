@@ -1,6 +1,6 @@
 name: Mamba_installation
 channels:
-  - javascript
+  - conda-forge
 dependencies:
   - python=3.10
   - bokeh
