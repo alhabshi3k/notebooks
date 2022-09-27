@@ -47,6 +47,9 @@ dependencies:
   - jupyterlab-blockly
   - jupyterlab-notifications
   - jupyterlab-filesystem-access
+  # ----- Reinstall some other packages ----
+  - metakernel
+  - calysto
 # ------------------------------------
   - jupyterthemes
   - jupyterlab_miami_nights
@@ -101,7 +104,7 @@ dependencies:
      - wasmer-compiler-singlepass
      - pyaswasm
      # ------------------------------------
-     - pyodide
+     #- pyodide
      - matplotlib-pyodide
      - pyodide-html
      - pyodide-http
