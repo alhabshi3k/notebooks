@@ -48,8 +48,22 @@ dependencies:
   - jupyterlab-notifications
   - jupyterlab-filesystem-access
 # ------------------------------------
+  - vispy
+  - aitk.keras
+  - imjoy-jupyterlab-extension
+  - dsvisualizer
+  - ipyx
+  - ipybertin
+# ------------------------------------
   - jupyterthemes
+  - statworx-theme
+  - pyplot-themes
+  - jltheme
+  - jupyterlab_miami_nights
   - theme-darcula
+  - jupyterlab-theme-hale
+  - jupyterlab-fonts
+  - skillsnetwork-authoring-extension
   - pip:
      - jupyter-core
      - jupyter-server
