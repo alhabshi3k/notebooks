@@ -57,20 +57,14 @@ dependencies:
   - theme-darcula
   - jupyterlab-fonts
 # ------------------------------------
-  - ivy-core
   - vispy
   - ipyx
   - ipybertin
   - jupyterlab-webrtc-docprovider
   - jupyter-videochat
   - jupyterview
-  - jupyter-compare-view
-  - floatview
   - ipyvizzu
-  - panel-sketch
   - flexx
-  - Castella
-  - htag
 # ------------------------------------
   - pip
   - pip:
@@ -106,6 +100,12 @@ dependencies:
      - jupyterlab-theme-hale
      - skillsnetwork-authoring-extension
      - pyotritonclient
+     - ivy-core
+     - jupyter-compare-view
+     - floatview
+     - panel-sketch
+     - Castella
+     - htag
      # ------------------------------------
      - wasm-spec-kernel
      - wasmpy
