@@ -3,21 +3,53 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - nodejs
   - bokeh
   - numpy
   - pandas
   - xarray
   - astropy
-  - nodejs
   - cloudpickle
   - doit
   - entrypoints
   - dtale
   - ipywidgets
   - jupyterlab
-  - widgetsnbextension~=4.0
+  - widgetsnbextension
   - ipylab
-  - pip
+  - Folium
+  - branca
+  - geemap
+  - eemont
+  - geeViz
+  - bqplot
+  - ipycanvas
+  - ipyevents
+  - ipyleaflet
+  - mpld3
+  - markupsafe
+  - ipympl
+  - ipydrawio
+  - ipydrawio-widgets
+  - ipydrawio-export
+  - ipyradiant
+  - ipyflex
+  - IPySlides
+  - jupyterlab_iframe
+  - jupyterlab-lsp
+  - autoplotter
+  - dash-daq 
+  - plotly
+  - kaleido
+  - jupyterlab-autoplot
+  - jupyterlab-skip-traceback
+  - jupyterlab-stickyland
+  - jupyterlab_comments
+  # ------------------------------------
+  - jupyterlab-filesystem-access
+  - jupyterlite
+  - jupyterthemes
+  - theme-darcula
   - pip:
      - jupyter-core
      - jupyter-server
