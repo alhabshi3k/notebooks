@@ -5,6 +5,8 @@ channels:
 dependencies:
   - python=3.10
   - nodejs
+  - yarn
+  - jupyterlab 
   - bokeh
   - numpy
   - pandas
@@ -15,7 +17,6 @@ dependencies:
   - entrypoints
   - dtale
   - ipywidgets
-  - jupyterlab
   - widgetsnbextension
   - ipylab
   - Folium
@@ -67,7 +68,6 @@ dependencies:
   - flexx
   - ipyelk
   - ibis-framework
-
 # ------------------------------------
   - pip
   - pip:
