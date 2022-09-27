@@ -68,6 +68,14 @@ dependencies:
   - flexx
   - ipyelk
   - ibis-framework
+# ---------The Problimatics-----------
+  - atoti
+  - atoti-core
+  - atoti-jupyterlab
+  - eidein
+  - bearsql
+  - GDAL
+  - P5
 # ------------------------------------
   - pip
   - pip:
