@@ -108,13 +108,13 @@ k3d # 3D visualization library # https://k3d-jupyter.org/
 # xeus-sql
 #-jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
-jupyterlite-p5-kernel
+#- jupyterlite-p5-kernel
 # jupyterlite_robotkernel  # !!! Possible this is responsible for degrading JupyterLab and JupterLite private cell functions icons 
 # jupyterlite_xeus_lfortran # Not matured 
-jupyterlite-xeus-lua
-jupyterlite-xeus-wren
-jupyterlite-xeus-sqlite
-JupyterLite-sphinx
+#- jupyterlite-xeus-lua
+#- jupyterlite-xeus-wren
+#- jupyterlite-xeus-sqlite
+#- JupyterLite-sphinx
 # pyb2d_jupyterlite_backend # more of testing dynamics for games and 3D FX effects  # Not Matured !! no documentation
 repo2jupyterlite
 replite
