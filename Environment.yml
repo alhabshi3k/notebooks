@@ -51,33 +51,11 @@ dependencies:
   - jupyterlab_miami_nights
   - theme-darcula
   - jupyterlab-fonts
-  - pyotritonclient
-# ------------------------------------
-  - wasm-spec-kernel
-  - wasmpy
-  - wasmpy-build
-  - pywasm3
-  - wasmtime
-  - wasmer
-  - wasmer-compiler-llvm
-  - wasmer-compiler-cranelift
-  - wasmer-compiler-singlepass
-  - pyaswasm
-# ------------------------------------
-  - pyodide
-  - matplotlib-pyodide
-  - pyodide-html
-  - pyodide-http
-  - pyodide-build
-  - exodide
-  - micropip
+
 # ------------------------------------
   - vispy
   - ipyx
   - ipybertin
-  - ipyp5
-  - pygbag
-  - Enpyre
 # ------------------------------------
   - pip
   - pip:
@@ -110,4 +88,30 @@ dependencies:
      - jltheme
      - jupyterlab-theme-hale
      - skillsnetwork-authoring-extension
+    - pyotritonclient
+     # ------------------------------------
+     - wasm-spec-kernel
+     - wasmpy
+     - wasmpy-build
+     - pywasm3
+     - wasmtime
+     - wasmer
+     - wasmer-compiler-llvm
+     - wasmer-compiler-cranelift
+     - wasmer-compiler-singlepass
+     - pyaswasm
+     # ------------------------------------
+     - pyodide
+     - matplotlib-pyodide
+     - pyodide-html
+     - pyodide-http
+     - pyodide-build
+     - exodide
+     - micropip
+     - build
+     # ------------------------------------
      - jupyterlite
+     # ------------------------------------
+     - ipyp5
+     - pygbag
+     - Enpyre

@@ -167,7 +167,7 @@ panel-sketch # To sketch high performing, interactive visualizations running in 
 #-pyodide-build
 #-exodide
 #-micropip # piplite is created on the fly
-build
+# build
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
 ipyscript # A Custom Jupyter Widget Library for PyScript.
 flexx # is a pure Python toolkit for creating graphical user interfaces (GUI’s), 
