@@ -20,7 +20,7 @@ dependencies:
   - Folium
   - branca
   - eemont
-  - geeViz
+
   - bqplot
   - ipycanvas
   - ipyevents
@@ -40,22 +40,12 @@ dependencies:
   - plotly
   - jupyterlab-fasta
   - jupyterlab-geojson
-  - jupyterlab-bpmn
-  - jupyterlab-dmn
   - jupyterlab-tour
   - jupyterlab-github
-  - jupyterlab-citation-manager
   - jupyterlab-dash
-  - jupyterlab-itables
   - jupyterlab-plugin-graph
-  - jupyterlab-jitsi
   - jupyterlab-blockly
-  - jupyter-simlin
-  - jupyterlab-image-editor
-  - jupyterlab-wav
   - jupyterlab-notifications
-  - jupyterlab-execute-time
-  - jupyterlab-empinken-extension
   - jupyterlab-filesystem-access
 # ------------------------------------
   - jupyterthemes
@@ -65,10 +55,21 @@ dependencies:
      - jupyter-server
      - jupyterlab-widgets
      - geemap
+     - geeViz
      - autoplotter
      - kaleido
      - jupyterlab-autoplot
      - jupyterlab-skip-traceback
      - jupyterlab-stickyland
      - jupyterlab_comments
+     - jupyterlab-bpmn
+     - jupyterlab-dmn
+     - jupyterlab-citation-manager
+     - jupyterlab-itables
+     - jupyterlab-jitsi
+     - jupyter-simlin
+     - jupyterlab-image-editor
+     - jupyterlab-wav
+     - jupyterlab-execute-time
+     - jupyterlab-empinken-extension
      - jupyterlite
