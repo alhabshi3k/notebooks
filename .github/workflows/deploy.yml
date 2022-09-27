@@ -21,8 +21,8 @@ jobs:
           cache-downloads: true
           environment-file: Environment.yml
           environment-name: noEnv
-          extra-specs: |
-            python=3.9
+          #extra-specs: |
+          #  python=3.9
       - name: Run Python to check if microMamba or 
         shell: bash -l {0}
         run: |

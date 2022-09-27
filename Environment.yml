@@ -124,7 +124,7 @@ dependencies:
      - jupyter-compare-view
      - floatview
      - panel-sketch
-     - Castella
+     # - Castella
      - htag
      - HCIplot
      - k3d
