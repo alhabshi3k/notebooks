@@ -1,9 +1,10 @@
 name: Mamba_installation
 channels:
   - conda-forge
+  - krinsman
   - defaults
 dependencies:
-  - python=3.10
+  - python=3.9
   - nodejs
   - yarn
   - jupyterlab 
@@ -75,8 +76,15 @@ dependencies:
   - jlab-enhanced-launcher
   - xeus-sql
   - xeus-cling
-  #- xeus-octave
+  - xeus-octave
   - jupyterlab_pygments
+  - jupyterlab-topbar
+  - jupyterlab-plotly-extension
+  - jupyterlab-favorites
+  - jupyterlab-mosaic
+  - jupyterlab-interactive-dashboard-editor
+  - jupyterlab-google-drive
+  - 
 # ------------------------------------
   - pip
   - pip:
