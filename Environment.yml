@@ -73,17 +73,17 @@ dependencies:
 # ---------The Problimatics-----------
   - GDAL 
   - jupyterlab-unfold
-  - jlab-enhanced-launcher
+  #- jlab-enhanced-launcher
   #- xeus-sql
   #- xeus-cling
   #- xeus-octave
-  - jupyterlab_pygments
-  - jupyterlab-topbar
-  - jupyterlab-plotly-extension
-  - jupyterlab-favorites
-  - jupyterlab-mosaic
-  - jupyterlab-interactive-dashboard-editor
-  - jupyterlab-google-drive
+  #- jupyterlab_pygments
+  #- jupyterlab-topbar
+  #- jupyterlab-plotly-extension
+  #- jupyterlab-favorites
+  #- jupyterlab-mosaic
+  #- jupyterlab-interactive-dashboard-editor
+  #- jupyterlab-google-drive
 # ------------------------------------
   - pip
   - pip:
