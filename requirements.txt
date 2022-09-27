@@ -82,13 +82,13 @@ tiledb-plot-widget
 ibis-framework
 duckdb
 # ----- Reinstall some other packages ----
-metakernel
-calysto
+#-metakernel
+#-calysto
 # postgres_kernel
-comm
-nbterm
+# comm
+# nbterm
 # xeus-robot
-xeus-python
+#-xeus-python
 jupyterlite-xeus-python
 sqlp-kernel
 mlflow-kernel
@@ -106,7 +106,6 @@ HCIplot # High-contrast Imaging Plotting library.
 k3d # 3D visualization library # https://k3d-jupyter.org/
 # ----------------------
 # xeus-sql
-# xeus-python  work working in browser, possible conflect on kernel
 #-jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
 jupyterlite-p5-kernel
