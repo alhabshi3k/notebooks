@@ -15,12 +15,10 @@ dependencies:
   - dtale
   - ipywidgets
   - jupyterlab
-  - jupyter-core
-  - jupyter-server
-  - jupyterlab-widgets
   - widgetsnbextension~=4.0
   - ipylab
-  - Flask
   - pip
   - pip:
-    - Flask-Testing
+     - jupyter-core
+     - jupyter-server
+     - jupyterlab-widgets
