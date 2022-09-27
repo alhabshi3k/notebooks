@@ -107,7 +107,7 @@ k3d # 3D visualization library # https://k3d-jupyter.org/
 # ----------------------
 # xeus-sql
 # xeus-python  work working in browser, possible conflect on kernel
-#- jupyterlite
+#-jupyterlite
 # jupyterlite-xeus-python # work working in browser, possible conflect on kernel
 jupyterlite-p5-kernel
 # jupyterlite_robotkernel  # !!! Possible this is responsible for degrading JupyterLab and JupterLite private cell functions icons 
@@ -157,16 +157,16 @@ panel-sketch # To sketch high performing, interactive visualizations running in 
 # !!! jupyterlab-bookmarks-extension is outdated that it drag other package to be old ones
 
 
-pyotritonclient # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
+#- pyotritonclient # A lightweight http client library for communicating with Nvidia Triton Inference Server (with Pyodide support in the browser)
 
 # -- other Tools related to :: pyodide -----
 # pyodide # is a Python distribution for the browser and Node.js based on WebAssembly.
-matplotlib-pyodide
-pyodide-html
-pyodide-http
-pyodide-build
-exodide
-micropip # piplite is created on the fly
+#-matplotlib-pyodide
+#-pyodide-html
+#-pyodide-http
+#-pyodide-build
+#-exodide
+#-micropip # piplite is created on the fly
 build
 # === other Tools ::  GUI based on markdown/ hmtl/ css / JS -----
 ipyscript # A Custom Jupyter Widget Library for PyScript.
@@ -187,19 +187,19 @@ htag # GUI toolkit for building GUI toolkits (and create beautiful applications 
      # For a pyscript app : you can use the PyScript runner, which will run completly in client side
 
 # ==== Game Engines and 3D =====
-pygbag # python wasm for everyone ( packager + test server ). Runs python code directly in modern web browsers, including mobile versions. 
+#-pygbag # python wasm for everyone ( packager + test server ). Runs python code directly in modern web browsers, including mobile versions. 
 # pyp5js # Python to P5.js Transcriptor. https://pypi.org/project/pyp5js/ . MyNotes: pyp5js works like server and template generator. & not updated to use latest Jinja
 # P5 # P5 is a Python library that provides high level drawing functionality to help you quickly create simulations and interactive art using Python. 
    # My Notes: P5 looks better than pyp5js in term of usability in Jupyter notebook # it have depedency on vispy
-ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
-Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
-wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter  # This degrade Jupyterlite new feature based on JupyterLab
-wasmpy # Interactions between WebAssembly and Python
-wasmpy-build # Emscripten compatible build script for CPython C extensions
-pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
-wasmtime
-wasmer
-wasmer-compiler-llvm  # since this will be compiled on the browser, I AM NOT SURE it is work cross platform
-wasmer-compiler-cranelift
-wasmer-compiler-singlepass
-pyaswasm # Loader of AssemblyScript WASM modules into Python with Wasmer backend
+#-ipyp5 #  p5.js Jupyter Widget. My Notes: ipyp5 is old , but can be handy 
+#-Enpyre # is an open-source library to render 2D games made with Python in React with graphics by PIXI.js and the power of Pyodide, WASM, and modern web technologies.
+#-wasm-spec-kernel # A Jupyter kernel for the Wasm reference interpreter  # This degrade Jupyterlite new feature based on JupyterLab
+#-wasmpy # Interactions between WebAssembly and Python
+#-wasmpy-build # Emscripten compatible build script for CPython C extensions
+#-pywasm3 # Python bindings for Wasm3, the fastest WebAssembly interpreter
+#-wasmtime
+#-wasmer
+#-wasmer-compiler-llvm  # since this will be compiled on the browser, I AM NOT SURE it is work cross platform
+#-wasmer-compiler-cranelift
+#-wasmer-compiler-singlepass
+#-pyaswasm # Loader of AssemblyScript WASM modules into Python with Wasmer backend

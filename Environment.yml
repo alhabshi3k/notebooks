@@ -20,7 +20,6 @@ dependencies:
   - Folium
   - branca
   - eemont
-
   - bqplot
   - ipycanvas
   - ipyevents
@@ -48,22 +47,39 @@ dependencies:
   - jupyterlab-notifications
   - jupyterlab-filesystem-access
 # ------------------------------------
-  - vispy
-  - aitk.keras
-  - imjoy-jupyterlab-extension
-  - dsvisualizer
-  - ipyx
-  - ipybertin
-# ------------------------------------
   - jupyterthemes
-  - statworx-theme
-  - pyplot-themes
-  - jltheme
   - jupyterlab_miami_nights
   - theme-darcula
-  - jupyterlab-theme-hale
   - jupyterlab-fonts
-  - skillsnetwork-authoring-extension
+  - pyotritonclient
+# ------------------------------------
+  - wasm-spec-kernel
+  - wasmpy
+  - wasmpy-build
+  - pywasm3
+  - wasmtime
+  - wasmer
+  - wasmer-compiler-llvm
+  - wasmer-compiler-cranelift
+  - wasmer-compiler-singlepass
+  - pyaswasm
+# ------------------------------------
+  - pyodide
+  - matplotlib-pyodide
+  - pyodide-html
+  - pyodide-http
+  - pyodide-build
+  - exodide
+  - micropip
+# ------------------------------------
+  - vispy
+  - ipyx
+  - ipybertin
+  - ipyp5
+  - pygbag
+  - Enpyre
+# ------------------------------------
+  - pip
   - pip:
      - jupyter-core
      - jupyter-server
@@ -86,4 +102,12 @@ dependencies:
      - jupyterlab-wav
      - jupyterlab-execute-time
      - jupyterlab-empinken-extension
+     - aitk.keras
+     - imjoy-jupyterlab-extension
+     - dsvisualizer
+     - statworx-theme
+     - pyplot-themes
+     - jltheme
+     - jupyterlab-theme-hale
+     - skillsnetwork-authoring-extension
      - jupyterlite
