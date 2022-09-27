@@ -69,13 +69,8 @@ dependencies:
   - ipyelk
   - ibis-framework
 # ---------The Problimatics-----------
-  - atoti
-  - atoti-core
-  - atoti-jupyterlab
-  - eidein
-  - bearsql
-  - GDAL
-  - P5
+  - GDAL 
+
 # ------------------------------------
   - pip
   - pip:
@@ -165,3 +160,9 @@ dependencies:
      - pygbag
      - Enpyre
      # ------------------------------------
+     - atoti
+     - atoti-core
+     - atoti-jupyterlab
+     - eidein
+     - bearsql
+     - P5
