@@ -19,7 +19,6 @@ dependencies:
   - ipylab
   - Folium
   - branca
-  - geemap
   - eemont
   - geeViz
   - bqplot
@@ -37,20 +36,39 @@ dependencies:
   - IPySlides
   - jupyterlab_iframe
   - jupyterlab-lsp
-  - autoplotter
   - dash-daq 
   - plotly
-  - kaleido
-  - jupyterlab-autoplot
-  - jupyterlab-skip-traceback
-  - jupyterlab-stickyland
-  - jupyterlab_comments
-  # ------------------------------------
+  - jupyterlab-fasta
+  - jupyterlab-geojson
+  - jupyterlab-bpmn
+  - jupyterlab-dmn
+  - jupyterlab-tour
+  - jupyterlab-github
+  - jupyterlab-citation-manager
+  - jupyterlab-dash
+  - jupyterlab-itables
+  - jupyterlab-plugin-graph
+  - jupyterlab-jitsi
+  - jupyterlab-blockly
+  - jupyter-simlin
+  - jupyterlab-image-editor
+  - jupyterlab-wav
+  - jupyterlab-notifications
+  - jupyterlab-execute-time
+  - jupyterlab-empinken-extension
   - jupyterlab-filesystem-access
-  - jupyterlite
+# ------------------------------------
   - jupyterthemes
   - theme-darcula
   - pip:
      - jupyter-core
      - jupyter-server
      - jupyterlab-widgets
+     - geemap
+     - autoplotter
+     - kaleido
+     - jupyterlab-autoplot
+     - jupyterlab-skip-traceback
+     - jupyterlab-stickyland
+     - jupyterlab_comments
+     - jupyterlite
