@@ -74,6 +74,9 @@ dependencies:
   - jupyterlab-unfold
   - jlab-enhanced-launcher
   - xeus-sql
+  - xeus-cling
+  #- xeus-octave
+  - jupyterlab_pygments
 # ------------------------------------
   - pip
   - pip:
