@@ -76,7 +76,7 @@ dependencies:
 # ---------The Pass Problimatics-----------
   - GDAL 
 # ---------The Problimatics-----------
-
+   - xeus-python
   #- jupyterlab-unfold
   #- jlab-enhanced-launcher
   #- xeus-sql
@@ -135,7 +135,7 @@ dependencies:
      - jupysql
      - sqlp-kernel
      - mlflow-kernel
-     #- duckdb # to Test - python-duckdb in mamba
+     - duckdb # to Test - python-duckdb in mamba
      - tiledb-plot-widget
      - jupyterlab_thredds
      - qsl
