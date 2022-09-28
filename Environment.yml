@@ -88,7 +88,7 @@ dependencies:
 # ------------------------------------
   - pip
   - pip:
-     - xeus-python
+     # - xeus-python
      - jupyter-core
      - jupyter-server
      - jupyterlab-widgets
@@ -176,7 +176,7 @@ dependencies:
      - atoti
      - atoti-core
      - atoti-jupyterlab
-     - eidein # still have some problem
+     # - eidein # still have some problem
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
      - bearsql
