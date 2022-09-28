@@ -82,7 +82,7 @@ dependencies:
   #- jupyterlab-unfold
   #- jlab-enhanced-launcher
   #- xeus-sql
-  #- xeus-cling
+  - xeus-cling
   #- xeus-octave
   - jupyterlab_pygments
   - jupyterlab-topbar
