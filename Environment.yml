@@ -184,4 +184,4 @@ dependencies:
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
      #- bearsql
-     #- P5
+     - P5
