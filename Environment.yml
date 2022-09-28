@@ -12,6 +12,7 @@ dependencies:
   - numpy
   - pandas
   - xarray
+  - pyarrow
   - astropy
   - cloudpickle
   - doit
