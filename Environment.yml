@@ -52,6 +52,8 @@ dependencies:
   - jupyterlab-filesystem-access
   # ----- Reinstall some other packages ----
   - metakernel
+  - python_abi
+  - xeus
   - xeus-python
   - nbterm
 # ------------------------------------
