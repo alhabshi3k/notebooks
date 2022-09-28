@@ -76,7 +76,7 @@ dependencies:
 # ---------The Pass Problimatics-----------
   - GDAL 
 # ---------The Problimatics-----------
-   - xeus-python
+  - xeus-python
   #- jupyterlab-unfold
   #- jlab-enhanced-launcher
   #- xeus-sql
