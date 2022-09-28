@@ -78,7 +78,7 @@ dependencies:
   - xeus-python
 # ---------The Problimatics-----------
 
-  - PyOpenGL-accelerate
+  # - PyOpenGL-accelerate # not updated for python 3.10
   #- jupyterlab-unfold
   #- jlab-enhanced-launcher
   #- xeus-sql
@@ -186,5 +186,5 @@ dependencies:
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
      #- bearsql
-     #- P5 # needs PyOpenGL-accelerate which not updated for python 3.10
+     #- P5 # needs PyOpenGL-accelerate 
      
