@@ -79,18 +79,18 @@ dependencies:
 # ---------The Problimatics-----------
 
   # - PyOpenGL-accelerate # not updated for python 3.10
-  #- jupyterlab-unfold
-  #- jlab-enhanced-launcher
+  - jupyterlab-unfold
+  - jlab-enhanced-launcher
   #- xeus-sql
   - xeus-cling
-  #- xeus-octave
+  - xeus-octave
   - jupyterlab_pygments
   - jupyterlab-topbar
   - jupyterlab-plotly-extension
   - jupyterlab-favorites
   - jupyterlab-mosaic
   - jupyterlab-interactive-dashboard-editor
-  #- jupyterlab-google-drive
+  - jupyterlab-google-drive
 # ------------------------------------
   - pip
   - pip:
