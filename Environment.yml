@@ -54,7 +54,6 @@ dependencies:
   - metakernel
   - python_abi
   - xeus
-  - xeus-python
   - nbterm
 # ------------------------------------
   - jupyterthemes
@@ -89,6 +88,7 @@ dependencies:
 # ------------------------------------
   - pip
   - pip:
+     - xeus-python
      - jupyter-core
      - jupyter-server
      - jupyterlab-widgets
