@@ -174,9 +174,9 @@ dependencies:
      - pygbag
      - Enpyre
      # ------------------------------------
-     - atoti
-     - atoti-core
-     - atoti-jupyterlab
+     #- atoti
+     #- atoti-core
+     #- atoti-jupyterlab
      # - eidein # still have some problem
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
