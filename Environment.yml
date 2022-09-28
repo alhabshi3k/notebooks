@@ -77,18 +77,18 @@ dependencies:
   - GDAL 
 # ---------The Problimatics-----------
 
-  - jupyterlab-unfold
-  - jlab-enhanced-launcher
-  - xeus-sql
-  - xeus-cling
-  - xeus-octave
-  - jupyterlab_pygments
-  - jupyterlab-topbar
-  - jupyterlab-plotly-extension
-  - jupyterlab-favorites
-  - jupyterlab-mosaic
-  - jupyterlab-interactive-dashboard-editor
-  - jupyterlab-google-drive
+  #- jupyterlab-unfold
+  #- jlab-enhanced-launcher
+  #- xeus-sql
+  #- xeus-cling
+  #- xeus-octave
+  #- jupyterlab_pygments
+  #- jupyterlab-topbar
+  #- jupyterlab-plotly-extension
+  #- jupyterlab-favorites
+  #- jupyterlab-mosaic
+  #- jupyterlab-interactive-dashboard-editor
+  #- jupyterlab-google-drive
 # ------------------------------------
   - pip
   - pip:
@@ -183,5 +183,5 @@ dependencies:
      # - eidein # still have some problem
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
-     - bearsql
-     - P5
+     #- bearsql
+     #- P5
