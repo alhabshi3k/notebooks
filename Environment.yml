@@ -87,8 +87,6 @@ dependencies:
 # ------------------------------------
   - pip
   - pip:
-     - calysto
-     - comm
      - jupyter-core
      - jupyter-server
      - jupyterlab-widgets
@@ -176,8 +174,8 @@ dependencies:
      - atoti
      - atoti-core
      - atoti-jupyterlab
-     # - eidein # still have some problem
+     #- eidein # still have some problem
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
-     - bearsql
-     - P5
+     #- bearsql
+     #- P5
