@@ -74,7 +74,7 @@ dependencies:
   - GDAL 
   - jupyterlab-unfold
   - jlab-enhanced-launcher
-  #- xeus-sql
+  - xeus-sql
   #- xeus-cling
   #- xeus-octave
   - jupyterlab_pygments
@@ -171,11 +171,11 @@ dependencies:
      - pygbag
      - Enpyre
      # ------------------------------------
-     - atoti
-     - atoti-core
-     - atoti-jupyterlab
+     #- atoti
+     #- atoti-core
+     #- atoti-jupyterlab
      #- eidein # still have some problem
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
      - bearsql
-     #- P5
+     - P5
