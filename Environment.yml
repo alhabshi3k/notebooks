@@ -83,7 +83,7 @@ dependencies:
   - jlab-enhanced-launcher
   #- xeus-sql
   - xeus-cling
-  - xeus-octave
+  #- xeus-octave
   - jupyterlab_pygments
   - jupyterlab-topbar
   - jupyterlab-plotly-extension
@@ -184,6 +184,6 @@ dependencies:
      # - eidein # still have some problem
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
-     # - bearsql
+     # - bearsql # degrading JupyterLab
      #- P5 # needs PyOpenGL-accelerate 
      
