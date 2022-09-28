@@ -94,7 +94,6 @@ dependencies:
 # ------------------------------------
   - pip
   - pip:
-     # - xeus-python
      - jupyter-core
      - jupyter-server
      - jupyterlab-widgets
@@ -185,6 +184,6 @@ dependencies:
      # - eidein # still have some problem
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
-     - bearsql
+     # - bearsql
      #- P5 # needs PyOpenGL-accelerate 
      
