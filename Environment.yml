@@ -72,8 +72,11 @@ dependencies:
   - flexx
   - ipyelk
   - ibis-framework
-# ---------The Problimatics-----------
+  - python-duckdb
+# ---------The Pass Problimatics-----------
   - GDAL 
+# ---------The Problimatics-----------
+
   - jupyterlab-unfold
   - jlab-enhanced-launcher
   - xeus-sql
@@ -132,7 +135,7 @@ dependencies:
      - jupysql
      - sqlp-kernel
      - mlflow-kernel
-     - duckdb
+     #- duckdb # to Test - python-duckdb in mamba
      - tiledb-plot-widget
      - jupyterlab_thredds
      - qsl
