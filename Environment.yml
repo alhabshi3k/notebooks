@@ -75,8 +75,8 @@ dependencies:
   - jupyterlab-unfold
   - jlab-enhanced-launcher
   - xeus-sql
-  #- xeus-cling
-  #- xeus-octave
+  - xeus-cling
+  - xeus-octave
   - jupyterlab_pygments
   - jupyterlab-topbar
   - jupyterlab-plotly-extension
@@ -136,7 +136,7 @@ dependencies:
      - jupyter-innotater
      - ipyannotations
      # ------------------------------------
-     - wasm-spec-kernel
+     # - wasm-spec-kernel
      - wasmpy
      - wasmpy-build
      - pywasm3
@@ -171,10 +171,10 @@ dependencies:
      - pygbag
      - Enpyre
      # ------------------------------------
-     #- atoti
-     #- atoti-core
-     #- atoti-jupyterlab
-     #- eidein # still have some problem
+     - atoti
+     - atoti-core
+     - atoti-jupyterlab
+     - eidein # still have some problem
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
      - bearsql
