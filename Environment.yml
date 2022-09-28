@@ -75,8 +75,10 @@ dependencies:
   - python-duckdb
 # ---------The Pass Problimatics-----------
   - GDAL 
-# ---------The Problimatics-----------
   - xeus-python
+# ---------The Problimatics-----------
+
+  - PyOpenGL-accelerate
   #- jupyterlab-unfold
   #- jlab-enhanced-launcher
   #- xeus-sql
@@ -184,4 +186,5 @@ dependencies:
      # https://github.com/podondra/eidein
      # https://pypi.org/project/eidein
      #- bearsql
-     - P5
+     - P5 
+     # P5 requires  PyOpenGL-accelerate
