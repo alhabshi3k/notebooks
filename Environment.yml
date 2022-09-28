@@ -81,9 +81,9 @@ dependencies:
   # - PyOpenGL-accelerate # not updated for python 3.10
   #- jupyterlab-unfold
   #- jlab-enhanced-launcher
-  - xeus-sql
-  - xeus-cling
-  - xeus-octave
+  #- xeus-sql
+  #- xeus-cling
+  #- xeus-octave
   - jupyterlab_pygments
   - jupyterlab-topbar
   - jupyterlab-plotly-extension
