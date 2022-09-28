@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - using-MicroMamba-on-linux
   pull_request:
     branches:
       - '*'
