@@ -34,6 +34,7 @@ jobs:
           yarn add jupyterlab_toastify
           yarn add @krassowski/jupyterlab-lsp
           yarn add @mangroup/jupyterlab-autoplot-display
+          npm install -g itypescript
           jupyter lite build --contents content --output-dir dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
