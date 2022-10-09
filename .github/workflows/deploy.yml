@@ -31,6 +31,8 @@ jobs:
           micromamba info 
           micromamba list
           cp README.md content
+          python -m pip install mitoinstaller
+          python -m mitoinstaller install
           yarn add @jupyter-widgets/jupyterlab-manager
           yarn add jupyterlab_toastify
           yarn add @krassowski/jupyterlab-lsp
