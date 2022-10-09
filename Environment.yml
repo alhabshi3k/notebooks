@@ -19,7 +19,7 @@ dependencies:
   - entrypoints
   - dtale
   - ipywidgets
-  - widgetsnbextension
+  - widgetsnbextension~=4.0.3
   - ipylab
   - Folium
   - branca

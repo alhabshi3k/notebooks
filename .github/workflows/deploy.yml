@@ -39,7 +39,7 @@ jobs:
           yarn add @mangroup/jupyterlab-autoplot-display
           yarn add luxwidget
           npm install -g itypescript
-          python -m pip install widgetsnbextension~=4.0.3
+          python -m pip install -U --force-reinstall widgetsnbextension~=4.0.3
           jupyter lite build --contents content --output-dir dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
