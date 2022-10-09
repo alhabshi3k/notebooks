@@ -101,6 +101,8 @@ dependencies:
      - geeViz
      - autoplotter
      - kaleido
+     - lux-api
+     - sweetviz
      - jupyterlab-autoplot
      - jupyterlab-skip-traceback
      - jupyterlab-stickyland
